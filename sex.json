@@ -1,0 +1,5732 @@
+[
+  {
+    "code": "E14000530",
+    "category": "female",
+    "value": 55319
+  },
+  {
+    "code": "E14000530",
+    "category": "male",
+    "value": 55953
+  },
+  {
+    "code": "E14000531",
+    "category": "female",
+    "value": 39833
+  },
+  {
+    "code": "E14000531",
+    "category": "male",
+    "value": 37819
+  },
+  {
+    "code": "E14000532",
+    "category": "female",
+    "value": 51914
+  },
+  {
+    "code": "E14000532",
+    "category": "male",
+    "value": 49010
+  },
+  {
+    "code": "E14000533",
+    "category": "female",
+    "value": 45868
+  },
+  {
+    "code": "E14000533",
+    "category": "male",
+    "value": 44454
+  },
+  {
+    "code": "E14000534",
+    "category": "female",
+    "value": 53974
+  },
+  {
+    "code": "E14000534",
+    "category": "male",
+    "value": 50320
+  },
+  {
+    "code": "E14000535",
+    "category": "female",
+    "value": 53319
+  },
+  {
+    "code": "E14000535",
+    "category": "male",
+    "value": 51174
+  },
+  {
+    "code": "E14000536",
+    "category": "female",
+    "value": 65405
+  },
+  {
+    "code": "E14000536",
+    "category": "male",
+    "value": 61918
+  },
+  {
+    "code": "E14000537",
+    "category": "female",
+    "value": 48869
+  },
+  {
+    "code": "E14000537",
+    "category": "male",
+    "value": 47104
+  },
+  {
+    "code": "E14000538",
+    "category": "female",
+    "value": 63090
+  },
+  {
+    "code": "E14000538",
+    "category": "male",
+    "value": 61994
+  },
+  {
+    "code": "E14000539",
+    "category": "female",
+    "value": 68644
+  },
+  {
+    "code": "E14000539",
+    "category": "male",
+    "value": 67818
+  },
+  {
+    "code": "E14000540",
+    "category": "female",
+    "value": 74653
+  },
+  {
+    "code": "E14000540",
+    "category": "male",
+    "value": 71235
+  },
+  {
+    "code": "E14000541",
+    "category": "female",
+    "value": 45784
+  },
+  {
+    "code": "E14000541",
+    "category": "male",
+    "value": 44772
+  },
+  {
+    "code": "E14000542",
+    "category": "female",
+    "value": 47944
+  },
+  {
+    "code": "E14000542",
+    "category": "male",
+    "value": 46414
+  },
+  {
+    "code": "E14000543",
+    "category": "female",
+    "value": 44067
+  },
+  {
+    "code": "E14000543",
+    "category": "male",
+    "value": 43371
+  },
+  {
+    "code": "E14000544",
+    "category": "female",
+    "value": 50431
+  },
+  {
+    "code": "E14000544",
+    "category": "male",
+    "value": 47270
+  },
+  {
+    "code": "E14000545",
+    "category": "female",
+    "value": 60140
+  },
+  {
+    "code": "E14000545",
+    "category": "male",
+    "value": 59356
+  },
+  {
+    "code": "E14000546",
+    "category": "female",
+    "value": 54738
+  },
+  {
+    "code": "E14000546",
+    "category": "male",
+    "value": 53673
+  },
+  {
+    "code": "E14000547",
+    "category": "female",
+    "value": 48616
+  },
+  {
+    "code": "E14000547",
+    "category": "male",
+    "value": 46427
+  },
+  {
+    "code": "E14000548",
+    "category": "female",
+    "value": 56440
+  },
+  {
+    "code": "E14000548",
+    "category": "male",
+    "value": 54249
+  },
+  {
+    "code": "E14000549",
+    "category": "female",
+    "value": 62477
+  },
+  {
+    "code": "E14000549",
+    "category": "male",
+    "value": 56954
+  },
+  {
+    "code": "E14000550",
+    "category": "female",
+    "value": 54416
+  },
+  {
+    "code": "E14000550",
+    "category": "male",
+    "value": 50615
+  },
+  {
+    "code": "E14000551",
+    "category": "female",
+    "value": 47895
+  },
+  {
+    "code": "E14000551",
+    "category": "male",
+    "value": 44882
+  },
+  {
+    "code": "E14000552",
+    "category": "female",
+    "value": 55797
+  },
+  {
+    "code": "E14000552",
+    "category": "male",
+    "value": 54804
+  },
+  {
+    "code": "E14000553",
+    "category": "female",
+    "value": 72269
+  },
+  {
+    "code": "E14000553",
+    "category": "male",
+    "value": 70495
+  },
+  {
+    "code": "E14000554",
+    "category": "female",
+    "value": 38199
+  },
+  {
+    "code": "E14000554",
+    "category": "male",
+    "value": 37340
+  },
+  {
+    "code": "E14000555",
+    "category": "female",
+    "value": 71870
+  },
+  {
+    "code": "E14000555",
+    "category": "male",
+    "value": 71151
+  },
+  {
+    "code": "E14000556",
+    "category": "female",
+    "value": 51075
+  },
+  {
+    "code": "E14000556",
+    "category": "male",
+    "value": 48868
+  },
+  {
+    "code": "E14000557",
+    "category": "female",
+    "value": 54772
+  },
+  {
+    "code": "E14000557",
+    "category": "male",
+    "value": 49903
+  },
+  {
+    "code": "E14000558",
+    "category": "female",
+    "value": 49219
+  },
+  {
+    "code": "E14000558",
+    "category": "male",
+    "value": 45393
+  },
+  {
+    "code": "E14000559",
+    "category": "female",
+    "value": 45946
+  },
+  {
+    "code": "E14000559",
+    "category": "male",
+    "value": 44331
+  },
+  {
+    "code": "E14000560",
+    "category": "female",
+    "value": 51624
+  },
+  {
+    "code": "E14000560",
+    "category": "male",
+    "value": 48504
+  },
+  {
+    "code": "E14000561",
+    "category": "female",
+    "value": 53907
+  },
+  {
+    "code": "E14000561",
+    "category": "male",
+    "value": 50950
+  },
+  {
+    "code": "E14000562",
+    "category": "female",
+    "value": 61169
+  },
+  {
+    "code": "E14000562",
+    "category": "male",
+    "value": 60745
+  },
+  {
+    "code": "E14000563",
+    "category": "female",
+    "value": 67572
+  },
+  {
+    "code": "E14000563",
+    "category": "male",
+    "value": 64801
+  },
+  {
+    "code": "E14000564",
+    "category": "female",
+    "value": 71843
+  },
+  {
+    "code": "E14000564",
+    "category": "male",
+    "value": 72217
+  },
+  {
+    "code": "E14000565",
+    "category": "female",
+    "value": 55332
+  },
+  {
+    "code": "E14000565",
+    "category": "male",
+    "value": 50562
+  },
+  {
+    "code": "E14000566",
+    "category": "female",
+    "value": 56728
+  },
+  {
+    "code": "E14000566",
+    "category": "male",
+    "value": 55712
+  },
+  {
+    "code": "E14000567",
+    "category": "female",
+    "value": 56961
+  },
+  {
+    "code": "E14000567",
+    "category": "male",
+    "value": 52644
+  },
+  {
+    "code": "E14000568",
+    "category": "female",
+    "value": 59608
+  },
+  {
+    "code": "E14000568",
+    "category": "male",
+    "value": 57355
+  },
+  {
+    "code": "E14000569",
+    "category": "female",
+    "value": 45893
+  },
+  {
+    "code": "E14000569",
+    "category": "male",
+    "value": 44018
+  },
+  {
+    "code": "E14000570",
+    "category": "female",
+    "value": 57678
+  },
+  {
+    "code": "E14000570",
+    "category": "male",
+    "value": 56717
+  },
+  {
+    "code": "E14000571",
+    "category": "female",
+    "value": 64283
+  },
+  {
+    "code": "E14000571",
+    "category": "male",
+    "value": 64627
+  },
+  {
+    "code": "E14000572",
+    "category": "female",
+    "value": 42172
+  },
+  {
+    "code": "E14000572",
+    "category": "male",
+    "value": 40701
+  },
+  {
+    "code": "E14000573",
+    "category": "female",
+    "value": 41134
+  },
+  {
+    "code": "E14000573",
+    "category": "male",
+    "value": 39866
+  },
+  {
+    "code": "E14000574",
+    "category": "female",
+    "value": 45290
+  },
+  {
+    "code": "E14000574",
+    "category": "male",
+    "value": 42730
+  },
+  {
+    "code": "E14000575",
+    "category": "female",
+    "value": 43547
+  },
+  {
+    "code": "E14000575",
+    "category": "male",
+    "value": 41790
+  },
+  {
+    "code": "E14000576",
+    "category": "female",
+    "value": 56533
+  },
+  {
+    "code": "E14000576",
+    "category": "male",
+    "value": 53618
+  },
+  {
+    "code": "E14000577",
+    "category": "female",
+    "value": 50742
+  },
+  {
+    "code": "E14000577",
+    "category": "male",
+    "value": 49236
+  },
+  {
+    "code": "E14000578",
+    "category": "female",
+    "value": 51142
+  },
+  {
+    "code": "E14000578",
+    "category": "male",
+    "value": 49942
+  },
+  {
+    "code": "E14000579",
+    "category": "female",
+    "value": 56423
+  },
+  {
+    "code": "E14000579",
+    "category": "male",
+    "value": 54985
+  },
+  {
+    "code": "E14000580",
+    "category": "female",
+    "value": 50448
+  },
+  {
+    "code": "E14000580",
+    "category": "male",
+    "value": 48657
+  },
+  {
+    "code": "E14000581",
+    "category": "female",
+    "value": 52137
+  },
+  {
+    "code": "E14000581",
+    "category": "male",
+    "value": 49245
+  },
+  {
+    "code": "E14000582",
+    "category": "female",
+    "value": 55742
+  },
+  {
+    "code": "E14000582",
+    "category": "male",
+    "value": 53744
+  },
+  {
+    "code": "E14000583",
+    "category": "female",
+    "value": 54168
+  },
+  {
+    "code": "E14000583",
+    "category": "male",
+    "value": 52663
+  },
+  {
+    "code": "E14000584",
+    "category": "female",
+    "value": 54440
+  },
+  {
+    "code": "E14000584",
+    "category": "male",
+    "value": 52498
+  },
+  {
+    "code": "E14000585",
+    "category": "female",
+    "value": 54470
+  },
+  {
+    "code": "E14000585",
+    "category": "male",
+    "value": 53155
+  },
+  {
+    "code": "E14000586",
+    "category": "female",
+    "value": 57295
+  },
+  {
+    "code": "E14000586",
+    "category": "male",
+    "value": 56664
+  },
+  {
+    "code": "E14000587",
+    "category": "female",
+    "value": 61809
+  },
+  {
+    "code": "E14000587",
+    "category": "male",
+    "value": 60005
+  },
+  {
+    "code": "E14000588",
+    "category": "female",
+    "value": 54971
+  },
+  {
+    "code": "E14000588",
+    "category": "male",
+    "value": 51469
+  },
+  {
+    "code": "E14000589",
+    "category": "female",
+    "value": 61194
+  },
+  {
+    "code": "E14000589",
+    "category": "male",
+    "value": 60161
+  },
+  {
+    "code": "E14000590",
+    "category": "female",
+    "value": 52488
+  },
+  {
+    "code": "E14000590",
+    "category": "male",
+    "value": 50775
+  },
+  {
+    "code": "E14000591",
+    "category": "female",
+    "value": 77127
+  },
+  {
+    "code": "E14000591",
+    "category": "male",
+    "value": 72592
+  },
+  {
+    "code": "E14000592",
+    "category": "female",
+    "value": 72360
+  },
+  {
+    "code": "E14000592",
+    "category": "male",
+    "value": 72558
+  },
+  {
+    "code": "E14000593",
+    "category": "female",
+    "value": 73034
+  },
+  {
+    "code": "E14000593",
+    "category": "male",
+    "value": 70836
+  },
+  {
+    "code": "E14000594",
+    "category": "female",
+    "value": 50539
+  },
+  {
+    "code": "E14000594",
+    "category": "male",
+    "value": 47826
+  },
+  {
+    "code": "E14000595",
+    "category": "female",
+    "value": 58838
+  },
+  {
+    "code": "E14000595",
+    "category": "male",
+    "value": 57452
+  },
+  {
+    "code": "E14000596",
+    "category": "female",
+    "value": 44656
+  },
+  {
+    "code": "E14000596",
+    "category": "male",
+    "value": 43011
+  },
+  {
+    "code": "E14000597",
+    "category": "female",
+    "value": 47606
+  },
+  {
+    "code": "E14000597",
+    "category": "male",
+    "value": 46052
+  },
+  {
+    "code": "E14000598",
+    "category": "female",
+    "value": 53408
+  },
+  {
+    "code": "E14000598",
+    "category": "male",
+    "value": 51331
+  },
+  {
+    "code": "E14000599",
+    "category": "female",
+    "value": 52715
+  },
+  {
+    "code": "E14000599",
+    "category": "male",
+    "value": 51600
+  },
+  {
+    "code": "E14000600",
+    "category": "female",
+    "value": 55924
+  },
+  {
+    "code": "E14000600",
+    "category": "male",
+    "value": 54122
+  },
+  {
+    "code": "E14000601",
+    "category": "female",
+    "value": 60097
+  },
+  {
+    "code": "E14000601",
+    "category": "male",
+    "value": 58045
+  },
+  {
+    "code": "E14000602",
+    "category": "female",
+    "value": 69206
+  },
+  {
+    "code": "E14000602",
+    "category": "male",
+    "value": 70756
+  },
+  {
+    "code": "E14000603",
+    "category": "female",
+    "value": 51284
+  },
+  {
+    "code": "E14000603",
+    "category": "male",
+    "value": 48778
+  },
+  {
+    "code": "E14000604",
+    "category": "female",
+    "value": 50220
+  },
+  {
+    "code": "E14000604",
+    "category": "male",
+    "value": 45873
+  },
+  {
+    "code": "E14000605",
+    "category": "female",
+    "value": 50730
+  },
+  {
+    "code": "E14000605",
+    "category": "male",
+    "value": 48453
+  },
+  {
+    "code": "E14000606",
+    "category": "female",
+    "value": 54006
+  },
+  {
+    "code": "E14000606",
+    "category": "male",
+    "value": 50643
+  },
+  {
+    "code": "E14000607",
+    "category": "female",
+    "value": 49025
+  },
+  {
+    "code": "E14000607",
+    "category": "male",
+    "value": 47290
+  },
+  {
+    "code": "E14000608",
+    "category": "female",
+    "value": 56906
+  },
+  {
+    "code": "E14000608",
+    "category": "male",
+    "value": 54347
+  },
+  {
+    "code": "E14000609",
+    "category": "female",
+    "value": 47849
+  },
+  {
+    "code": "E14000609",
+    "category": "male",
+    "value": 46797
+  },
+  {
+    "code": "E14000610",
+    "category": "female",
+    "value": 56104
+  },
+  {
+    "code": "E14000610",
+    "category": "male",
+    "value": 56427
+  },
+  {
+    "code": "E14000611",
+    "category": "female",
+    "value": 46788
+  },
+  {
+    "code": "E14000611",
+    "category": "male",
+    "value": 45070
+  },
+  {
+    "code": "E14000612",
+    "category": "female",
+    "value": 51953
+  },
+  {
+    "code": "E14000612",
+    "category": "male",
+    "value": 50040
+  },
+  {
+    "code": "E14000613",
+    "category": "female",
+    "value": 59398
+  },
+  {
+    "code": "E14000613",
+    "category": "male",
+    "value": 58049
+  },
+  {
+    "code": "E14000614",
+    "category": "female",
+    "value": 52773
+  },
+  {
+    "code": "E14000614",
+    "category": "male",
+    "value": 49801
+  },
+  {
+    "code": "E14000615",
+    "category": "female",
+    "value": 67342
+  },
+  {
+    "code": "E14000615",
+    "category": "male",
+    "value": 60691
+  },
+  {
+    "code": "E14000616",
+    "category": "female",
+    "value": 48845
+  },
+  {
+    "code": "E14000616",
+    "category": "male",
+    "value": 46597
+  },
+  {
+    "code": "E14000617",
+    "category": "female",
+    "value": 66608
+  },
+  {
+    "code": "E14000617",
+    "category": "male",
+    "value": 67139
+  },
+  {
+    "code": "E14000618",
+    "category": "female",
+    "value": 51007
+  },
+  {
+    "code": "E14000618",
+    "category": "male",
+    "value": 49512
+  },
+  {
+    "code": "E14000619",
+    "category": "female",
+    "value": 59016
+  },
+  {
+    "code": "E14000619",
+    "category": "male",
+    "value": 54373
+  },
+  {
+    "code": "E14000620",
+    "category": "female",
+    "value": 45160
+  },
+  {
+    "code": "E14000620",
+    "category": "male",
+    "value": 43054
+  },
+  {
+    "code": "E14000621",
+    "category": "female",
+    "value": 54154
+  },
+  {
+    "code": "E14000621",
+    "category": "male",
+    "value": 50530
+  },
+  {
+    "code": "E14000622",
+    "category": "female",
+    "value": 46225
+  },
+  {
+    "code": "E14000622",
+    "category": "male",
+    "value": 43362
+  },
+  {
+    "code": "E14000623",
+    "category": "female",
+    "value": 49054
+  },
+  {
+    "code": "E14000623",
+    "category": "male",
+    "value": 46407
+  },
+  {
+    "code": "E14000624",
+    "category": "female",
+    "value": 52605
+  },
+  {
+    "code": "E14000624",
+    "category": "male",
+    "value": 50521
+  },
+  {
+    "code": "E14000625",
+    "category": "female",
+    "value": 53546
+  },
+  {
+    "code": "E14000625",
+    "category": "male",
+    "value": 51374
+  },
+  {
+    "code": "E14000626",
+    "category": "female",
+    "value": 52441
+  },
+  {
+    "code": "E14000626",
+    "category": "male",
+    "value": 50121
+  },
+  {
+    "code": "E14000627",
+    "category": "female",
+    "value": 49214
+  },
+  {
+    "code": "E14000627",
+    "category": "male",
+    "value": 46265
+  },
+  {
+    "code": "E14000628",
+    "category": "female",
+    "value": 57331
+  },
+  {
+    "code": "E14000628",
+    "category": "male",
+    "value": 55540
+  },
+  {
+    "code": "E14000629",
+    "category": "female",
+    "value": 54812
+  },
+  {
+    "code": "E14000629",
+    "category": "male",
+    "value": 46943
+  },
+  {
+    "code": "E14000630",
+    "category": "female",
+    "value": 54695
+  },
+  {
+    "code": "E14000630",
+    "category": "male",
+    "value": 52433
+  },
+  {
+    "code": "E14000631",
+    "category": "female",
+    "value": 49799
+  },
+  {
+    "code": "E14000631",
+    "category": "male",
+    "value": 46887
+  },
+  {
+    "code": "E14000632",
+    "category": "female",
+    "value": 47412
+  },
+  {
+    "code": "E14000632",
+    "category": "male",
+    "value": 45829
+  },
+  {
+    "code": "E14000633",
+    "category": "female",
+    "value": 59570
+  },
+  {
+    "code": "E14000633",
+    "category": "male",
+    "value": 54851
+  },
+  {
+    "code": "E14000634",
+    "category": "female",
+    "value": 49253
+  },
+  {
+    "code": "E14000634",
+    "category": "male",
+    "value": 46723
+  },
+  {
+    "code": "E14000635",
+    "category": "female",
+    "value": 51982
+  },
+  {
+    "code": "E14000635",
+    "category": "male",
+    "value": 49655
+  },
+  {
+    "code": "E14000636",
+    "category": "female",
+    "value": 60751
+  },
+  {
+    "code": "E14000636",
+    "category": "male",
+    "value": 56761
+  },
+  {
+    "code": "E14000637",
+    "category": "female",
+    "value": 53479
+  },
+  {
+    "code": "E14000637",
+    "category": "male",
+    "value": 51531
+  },
+  {
+    "code": "E14000638",
+    "category": "female",
+    "value": 45928
+  },
+  {
+    "code": "E14000638",
+    "category": "male",
+    "value": 41876
+  },
+  {
+    "code": "E14000639",
+    "category": "female",
+    "value": 50594
+  },
+  {
+    "code": "E14000639",
+    "category": "male",
+    "value": 50443
+  },
+  {
+    "code": "E14000640",
+    "category": "female",
+    "value": 51238
+  },
+  {
+    "code": "E14000640",
+    "category": "male",
+    "value": 49029
+  },
+  {
+    "code": "E14000641",
+    "category": "female",
+    "value": 50434
+  },
+  {
+    "code": "E14000641",
+    "category": "male",
+    "value": 48920
+  },
+  {
+    "code": "E14000642",
+    "category": "female",
+    "value": 47417
+  },
+  {
+    "code": "E14000642",
+    "category": "male",
+    "value": 43552
+  },
+  {
+    "code": "E14000643",
+    "category": "female",
+    "value": 48061
+  },
+  {
+    "code": "E14000643",
+    "category": "male",
+    "value": 46106
+  },
+  {
+    "code": "E14000644",
+    "category": "female",
+    "value": 63170
+  },
+  {
+    "code": "E14000644",
+    "category": "male",
+    "value": 60691
+  },
+  {
+    "code": "E14000645",
+    "category": "female",
+    "value": 58005
+  },
+  {
+    "code": "E14000645",
+    "category": "male",
+    "value": 54937
+  },
+  {
+    "code": "E14000646",
+    "category": "female",
+    "value": 53164
+  },
+  {
+    "code": "E14000646",
+    "category": "male",
+    "value": 50873
+  },
+  {
+    "code": "E14000647",
+    "category": "female",
+    "value": 38439
+  },
+  {
+    "code": "E14000647",
+    "category": "male",
+    "value": 38075
+  },
+  {
+    "code": "E14000648",
+    "category": "female",
+    "value": 65559
+  },
+  {
+    "code": "E14000648",
+    "category": "male",
+    "value": 63906
+  },
+  {
+    "code": "E14000649",
+    "category": "female",
+    "value": 63086
+  },
+  {
+    "code": "E14000649",
+    "category": "male",
+    "value": 61324
+  },
+  {
+    "code": "E14000650",
+    "category": "female",
+    "value": 54070
+  },
+  {
+    "code": "E14000650",
+    "category": "male",
+    "value": 53220
+  },
+  {
+    "code": "E14000651",
+    "category": "female",
+    "value": 55981
+  },
+  {
+    "code": "E14000651",
+    "category": "male",
+    "value": 57643
+  },
+  {
+    "code": "E14000652",
+    "category": "female",
+    "value": 59492
+  },
+  {
+    "code": "E14000652",
+    "category": "male",
+    "value": 59001
+  },
+  {
+    "code": "E14000653",
+    "category": "female",
+    "value": 57404
+  },
+  {
+    "code": "E14000653",
+    "category": "male",
+    "value": 56754
+  },
+  {
+    "code": "E14000654",
+    "category": "female",
+    "value": 65165
+  },
+  {
+    "code": "E14000654",
+    "category": "male",
+    "value": 59712
+  },
+  {
+    "code": "E14000655",
+    "category": "female",
+    "value": 76446
+  },
+  {
+    "code": "E14000655",
+    "category": "male",
+    "value": 70210
+  },
+  {
+    "code": "E14000656",
+    "category": "female",
+    "value": 61475
+  },
+  {
+    "code": "E14000656",
+    "category": "male",
+    "value": 57709
+  },
+  {
+    "code": "E14000657",
+    "category": "female",
+    "value": 59751
+  },
+  {
+    "code": "E14000657",
+    "category": "male",
+    "value": 56048
+  },
+  {
+    "code": "E14000658",
+    "category": "female",
+    "value": 47137
+  },
+  {
+    "code": "E14000658",
+    "category": "male",
+    "value": 45059
+  },
+  {
+    "code": "E14000659",
+    "category": "female",
+    "value": 62704
+  },
+  {
+    "code": "E14000659",
+    "category": "male",
+    "value": 59980
+  },
+  {
+    "code": "E14000660",
+    "category": "female",
+    "value": 54037
+  },
+  {
+    "code": "E14000660",
+    "category": "male",
+    "value": 53543
+  },
+  {
+    "code": "E14000661",
+    "category": "female",
+    "value": 45039
+  },
+  {
+    "code": "E14000661",
+    "category": "male",
+    "value": 42787
+  },
+  {
+    "code": "E14000662",
+    "category": "female",
+    "value": 52067
+  },
+  {
+    "code": "E14000662",
+    "category": "male",
+    "value": 51168
+  },
+  {
+    "code": "E14000663",
+    "category": "female",
+    "value": 59334
+  },
+  {
+    "code": "E14000663",
+    "category": "male",
+    "value": 59183
+  },
+  {
+    "code": "E14000664",
+    "category": "female",
+    "value": 41301
+  },
+  {
+    "code": "E14000664",
+    "category": "male",
+    "value": 39526
+  },
+  {
+    "code": "E14000665",
+    "category": "female",
+    "value": 51454
+  },
+  {
+    "code": "E14000665",
+    "category": "male",
+    "value": 52364
+  },
+  {
+    "code": "E14000666",
+    "category": "female",
+    "value": 57764
+  },
+  {
+    "code": "E14000666",
+    "category": "male",
+    "value": 55878
+  },
+  {
+    "code": "E14000667",
+    "category": "female",
+    "value": 51150
+  },
+  {
+    "code": "E14000667",
+    "category": "male",
+    "value": 50563
+  },
+  {
+    "code": "E14000668",
+    "category": "female",
+    "value": 53529
+  },
+  {
+    "code": "E14000668",
+    "category": "male",
+    "value": 54028
+  },
+  {
+    "code": "E14000669",
+    "category": "female",
+    "value": 50601
+  },
+  {
+    "code": "E14000669",
+    "category": "male",
+    "value": 48235
+  },
+  {
+    "code": "E14000670",
+    "category": "female",
+    "value": 52295
+  },
+  {
+    "code": "E14000670",
+    "category": "male",
+    "value": 49773
+  },
+  {
+    "code": "E14000671",
+    "category": "female",
+    "value": 43912
+  },
+  {
+    "code": "E14000671",
+    "category": "male",
+    "value": 42339
+  },
+  {
+    "code": "E14000672",
+    "category": "female",
+    "value": 41563
+  },
+  {
+    "code": "E14000672",
+    "category": "male",
+    "value": 40027
+  },
+  {
+    "code": "E14000673",
+    "category": "female",
+    "value": 59534
+  },
+  {
+    "code": "E14000673",
+    "category": "male",
+    "value": 54343
+  },
+  {
+    "code": "E14000674",
+    "category": "female",
+    "value": 66145
+  },
+  {
+    "code": "E14000674",
+    "category": "male",
+    "value": 63067
+  },
+  {
+    "code": "E14000675",
+    "category": "female",
+    "value": 66091
+  },
+  {
+    "code": "E14000675",
+    "category": "male",
+    "value": 63810
+  },
+  {
+    "code": "E14000676",
+    "category": "female",
+    "value": 53969
+  },
+  {
+    "code": "E14000676",
+    "category": "male",
+    "value": 54031
+  },
+  {
+    "code": "E14000677",
+    "category": "female",
+    "value": 41971
+  },
+  {
+    "code": "E14000677",
+    "category": "male",
+    "value": 39541
+  },
+  {
+    "code": "E14000678",
+    "category": "female",
+    "value": 58028
+  },
+  {
+    "code": "E14000678",
+    "category": "male",
+    "value": 53888
+  },
+  {
+    "code": "E14000679",
+    "category": "female",
+    "value": 83598
+  },
+  {
+    "code": "E14000679",
+    "category": "male",
+    "value": 83356
+  },
+  {
+    "code": "E14000680",
+    "category": "female",
+    "value": 53074
+  },
+  {
+    "code": "E14000680",
+    "category": "male",
+    "value": 49977
+  },
+  {
+    "code": "E14000681",
+    "category": "female",
+    "value": 59492
+  },
+  {
+    "code": "E14000681",
+    "category": "male",
+    "value": 55809
+  },
+  {
+    "code": "E14000682",
+    "category": "female",
+    "value": 51339
+  },
+  {
+    "code": "E14000682",
+    "category": "male",
+    "value": 48284
+  },
+  {
+    "code": "E14000683",
+    "category": "female",
+    "value": 53324
+  },
+  {
+    "code": "E14000683",
+    "category": "male",
+    "value": 51035
+  },
+  {
+    "code": "E14000684",
+    "category": "female",
+    "value": 57174
+  },
+  {
+    "code": "E14000684",
+    "category": "male",
+    "value": 52070
+  },
+  {
+    "code": "E14000685",
+    "category": "female",
+    "value": 58877
+  },
+  {
+    "code": "E14000685",
+    "category": "male",
+    "value": 56440
+  },
+  {
+    "code": "E14000686",
+    "category": "female",
+    "value": 50472
+  },
+  {
+    "code": "E14000686",
+    "category": "male",
+    "value": 48087
+  },
+  {
+    "code": "E14000687",
+    "category": "female",
+    "value": 61949
+  },
+  {
+    "code": "E14000687",
+    "category": "male",
+    "value": 56084
+  },
+  {
+    "code": "E14000688",
+    "category": "female",
+    "value": 47483
+  },
+  {
+    "code": "E14000688",
+    "category": "male",
+    "value": 44687
+  },
+  {
+    "code": "E14000689",
+    "category": "female",
+    "value": 53508
+  },
+  {
+    "code": "E14000689",
+    "category": "male",
+    "value": 50642
+  },
+  {
+    "code": "E14000690",
+    "category": "female",
+    "value": 50444
+  },
+  {
+    "code": "E14000690",
+    "category": "male",
+    "value": 46701
+  },
+  {
+    "code": "E14000691",
+    "category": "female",
+    "value": 57603
+  },
+  {
+    "code": "E14000691",
+    "category": "male",
+    "value": 51388
+  },
+  {
+    "code": "E14000692",
+    "category": "female",
+    "value": 52921
+  },
+  {
+    "code": "E14000692",
+    "category": "male",
+    "value": 50039
+  },
+  {
+    "code": "E14000693",
+    "category": "female",
+    "value": 52938
+  },
+  {
+    "code": "E14000693",
+    "category": "male",
+    "value": 49675
+  },
+  {
+    "code": "E14000694",
+    "category": "female",
+    "value": 57766
+  },
+  {
+    "code": "E14000694",
+    "category": "male",
+    "value": 53957
+  },
+  {
+    "code": "E14000695",
+    "category": "female",
+    "value": 48340
+  },
+  {
+    "code": "E14000695",
+    "category": "male",
+    "value": 46833
+  },
+  {
+    "code": "E14000696",
+    "category": "female",
+    "value": 60451
+  },
+  {
+    "code": "E14000696",
+    "category": "male",
+    "value": 57851
+  },
+  {
+    "code": "E14000697",
+    "category": "female",
+    "value": 59852
+  },
+  {
+    "code": "E14000697",
+    "category": "male",
+    "value": 55956
+  },
+  {
+    "code": "E14000698",
+    "category": "female",
+    "value": 58989
+  },
+  {
+    "code": "E14000698",
+    "category": "male",
+    "value": 56239
+  },
+  {
+    "code": "E14000699",
+    "category": "female",
+    "value": 51425
+  },
+  {
+    "code": "E14000699",
+    "category": "male",
+    "value": 48770
+  },
+  {
+    "code": "E14000700",
+    "category": "female",
+    "value": 52145
+  },
+  {
+    "code": "E14000700",
+    "category": "male",
+    "value": 49352
+  },
+  {
+    "code": "E14000701",
+    "category": "female",
+    "value": 71945
+  },
+  {
+    "code": "E14000701",
+    "category": "male",
+    "value": 72366
+  },
+  {
+    "code": "E14000702",
+    "category": "female",
+    "value": 52993
+  },
+  {
+    "code": "E14000702",
+    "category": "male",
+    "value": 53218
+  },
+  {
+    "code": "E14000703",
+    "category": "female",
+    "value": 65339
+  },
+  {
+    "code": "E14000703",
+    "category": "male",
+    "value": 60707
+  },
+  {
+    "code": "E14000704",
+    "category": "female",
+    "value": 58933
+  },
+  {
+    "code": "E14000704",
+    "category": "male",
+    "value": 56248
+  },
+  {
+    "code": "E14000705",
+    "category": "female",
+    "value": 46734
+  },
+  {
+    "code": "E14000705",
+    "category": "male",
+    "value": 44826
+  },
+  {
+    "code": "E14000706",
+    "category": "female",
+    "value": 45179
+  },
+  {
+    "code": "E14000706",
+    "category": "male",
+    "value": 43349
+  },
+  {
+    "code": "E14000707",
+    "category": "female",
+    "value": 49763
+  },
+  {
+    "code": "E14000707",
+    "category": "male",
+    "value": 47979
+  },
+  {
+    "code": "E14000708",
+    "category": "female",
+    "value": 52714
+  },
+  {
+    "code": "E14000708",
+    "category": "male",
+    "value": 48575
+  },
+  {
+    "code": "E14000709",
+    "category": "female",
+    "value": 46159
+  },
+  {
+    "code": "E14000709",
+    "category": "male",
+    "value": 45509
+  },
+  {
+    "code": "E14000710",
+    "category": "female",
+    "value": 48863
+  },
+  {
+    "code": "E14000710",
+    "category": "male",
+    "value": 45823
+  },
+  {
+    "code": "E14000711",
+    "category": "female",
+    "value": 52490
+  },
+  {
+    "code": "E14000711",
+    "category": "male",
+    "value": 49823
+  },
+  {
+    "code": "E14000712",
+    "category": "female",
+    "value": 62089
+  },
+  {
+    "code": "E14000712",
+    "category": "male",
+    "value": 60792
+  },
+  {
+    "code": "E14000713",
+    "category": "female",
+    "value": 49136
+  },
+  {
+    "code": "E14000713",
+    "category": "male",
+    "value": 47134
+  },
+  {
+    "code": "E14000714",
+    "category": "female",
+    "value": 58008
+  },
+  {
+    "code": "E14000714",
+    "category": "male",
+    "value": 54776
+  },
+  {
+    "code": "E14000715",
+    "category": "female",
+    "value": 54667
+  },
+  {
+    "code": "E14000715",
+    "category": "male",
+    "value": 52233
+  },
+  {
+    "code": "E14000716",
+    "category": "female",
+    "value": 43910
+  },
+  {
+    "code": "E14000716",
+    "category": "male",
+    "value": 42242
+  },
+  {
+    "code": "E14000717",
+    "category": "female",
+    "value": 50853
+  },
+  {
+    "code": "E14000717",
+    "category": "male",
+    "value": 48892
+  },
+  {
+    "code": "E14000718",
+    "category": "female",
+    "value": 69869
+  },
+  {
+    "code": "E14000718",
+    "category": "male",
+    "value": 65925
+  },
+  {
+    "code": "E14000719",
+    "category": "female",
+    "value": 57128
+  },
+  {
+    "code": "E14000719",
+    "category": "male",
+    "value": 54224
+  },
+  {
+    "code": "E14000720",
+    "category": "female",
+    "value": 70052
+  },
+  {
+    "code": "E14000720",
+    "category": "male",
+    "value": 64161
+  },
+  {
+    "code": "E14000721",
+    "category": "female",
+    "value": 65251
+  },
+  {
+    "code": "E14000721",
+    "category": "male",
+    "value": 59679
+  },
+  {
+    "code": "E14000722",
+    "category": "female",
+    "value": 47272
+  },
+  {
+    "code": "E14000722",
+    "category": "male",
+    "value": 45311
+  },
+  {
+    "code": "E14000723",
+    "category": "female",
+    "value": 53128
+  },
+  {
+    "code": "E14000723",
+    "category": "male",
+    "value": 50929
+  },
+  {
+    "code": "E14000724",
+    "category": "female",
+    "value": 45845
+  },
+  {
+    "code": "E14000724",
+    "category": "male",
+    "value": 44621
+  },
+  {
+    "code": "E14000725",
+    "category": "female",
+    "value": 49620
+  },
+  {
+    "code": "E14000725",
+    "category": "male",
+    "value": 47897
+  },
+  {
+    "code": "E14000726",
+    "category": "female",
+    "value": 62247
+  },
+  {
+    "code": "E14000726",
+    "category": "male",
+    "value": 55582
+  },
+  {
+    "code": "E14000727",
+    "category": "female",
+    "value": 67700
+  },
+  {
+    "code": "E14000727",
+    "category": "male",
+    "value": 60984
+  },
+  {
+    "code": "E14000728",
+    "category": "female",
+    "value": 55928
+  },
+  {
+    "code": "E14000728",
+    "category": "male",
+    "value": 53478
+  },
+  {
+    "code": "E14000729",
+    "category": "female",
+    "value": 53418
+  },
+  {
+    "code": "E14000729",
+    "category": "male",
+    "value": 50956
+  },
+  {
+    "code": "E14000730",
+    "category": "female",
+    "value": 53544
+  },
+  {
+    "code": "E14000730",
+    "category": "male",
+    "value": 51195
+  },
+  {
+    "code": "E14000731",
+    "category": "female",
+    "value": 56423
+  },
+  {
+    "code": "E14000731",
+    "category": "male",
+    "value": 54762
+  },
+  {
+    "code": "E14000732",
+    "category": "female",
+    "value": 58733
+  },
+  {
+    "code": "E14000732",
+    "category": "male",
+    "value": 58212
+  },
+  {
+    "code": "E14000733",
+    "category": "female",
+    "value": 47653
+  },
+  {
+    "code": "E14000733",
+    "category": "male",
+    "value": 44685
+  },
+  {
+    "code": "E14000734",
+    "category": "female",
+    "value": 49113
+  },
+  {
+    "code": "E14000734",
+    "category": "male",
+    "value": 46679
+  },
+  {
+    "code": "E14000735",
+    "category": "female",
+    "value": 56343
+  },
+  {
+    "code": "E14000735",
+    "category": "male",
+    "value": 52950
+  },
+  {
+    "code": "E14000736",
+    "category": "female",
+    "value": 49240
+  },
+  {
+    "code": "E14000736",
+    "category": "male",
+    "value": 45765
+  },
+  {
+    "code": "E14000737",
+    "category": "female",
+    "value": 63108
+  },
+  {
+    "code": "E14000737",
+    "category": "male",
+    "value": 63294
+  },
+  {
+    "code": "E14000738",
+    "category": "female",
+    "value": 41453
+  },
+  {
+    "code": "E14000738",
+    "category": "male",
+    "value": 38921
+  },
+  {
+    "code": "E14000739",
+    "category": "female",
+    "value": 54980
+  },
+  {
+    "code": "E14000739",
+    "category": "male",
+    "value": 52602
+  },
+  {
+    "code": "E14000740",
+    "category": "female",
+    "value": 50948
+  },
+  {
+    "code": "E14000740",
+    "category": "male",
+    "value": 49286
+  },
+  {
+    "code": "E14000741",
+    "category": "female",
+    "value": 74709
+  },
+  {
+    "code": "E14000741",
+    "category": "male",
+    "value": 71076
+  },
+  {
+    "code": "E14000742",
+    "category": "female",
+    "value": 52639
+  },
+  {
+    "code": "E14000742",
+    "category": "male",
+    "value": 51113
+  },
+  {
+    "code": "E14000743",
+    "category": "female",
+    "value": 49514
+  },
+  {
+    "code": "E14000743",
+    "category": "male",
+    "value": 48028
+  },
+  {
+    "code": "E14000744",
+    "category": "female",
+    "value": 58957
+  },
+  {
+    "code": "E14000744",
+    "category": "male",
+    "value": 56129
+  },
+  {
+    "code": "E14000745",
+    "category": "female",
+    "value": 56028
+  },
+  {
+    "code": "E14000745",
+    "category": "male",
+    "value": 51799
+  },
+  {
+    "code": "E14000746",
+    "category": "female",
+    "value": 39115
+  },
+  {
+    "code": "E14000746",
+    "category": "male",
+    "value": 37285
+  },
+  {
+    "code": "E14000747",
+    "category": "female",
+    "value": 56165
+  },
+  {
+    "code": "E14000747",
+    "category": "male",
+    "value": 53222
+  },
+  {
+    "code": "E14000748",
+    "category": "female",
+    "value": 46252
+  },
+  {
+    "code": "E14000748",
+    "category": "male",
+    "value": 44680
+  },
+  {
+    "code": "E14000749",
+    "category": "female",
+    "value": 53195
+  },
+  {
+    "code": "E14000749",
+    "category": "male",
+    "value": 50466
+  },
+  {
+    "code": "E14000750",
+    "category": "female",
+    "value": 66585
+  },
+  {
+    "code": "E14000750",
+    "category": "male",
+    "value": 60045
+  },
+  {
+    "code": "E14000751",
+    "category": "female",
+    "value": 58234
+  },
+  {
+    "code": "E14000751",
+    "category": "male",
+    "value": 54390
+  },
+  {
+    "code": "E14000752",
+    "category": "female",
+    "value": 64978
+  },
+  {
+    "code": "E14000752",
+    "category": "male",
+    "value": 59624
+  },
+  {
+    "code": "E14000753",
+    "category": "female",
+    "value": 60230
+  },
+  {
+    "code": "E14000753",
+    "category": "male",
+    "value": 57762
+  },
+  {
+    "code": "E14000754",
+    "category": "female",
+    "value": 46462
+  },
+  {
+    "code": "E14000754",
+    "category": "male",
+    "value": 43257
+  },
+  {
+    "code": "E14000755",
+    "category": "female",
+    "value": 52317
+  },
+  {
+    "code": "E14000755",
+    "category": "male",
+    "value": 49216
+  },
+  {
+    "code": "E14000756",
+    "category": "female",
+    "value": 48659
+  },
+  {
+    "code": "E14000756",
+    "category": "male",
+    "value": 47282
+  },
+  {
+    "code": "E14000757",
+    "category": "female",
+    "value": 61559
+  },
+  {
+    "code": "E14000757",
+    "category": "male",
+    "value": 60982
+  },
+  {
+    "code": "E14000758",
+    "category": "female",
+    "value": 47740
+  },
+  {
+    "code": "E14000758",
+    "category": "male",
+    "value": 46285
+  },
+  {
+    "code": "E14000759",
+    "category": "female",
+    "value": 58854
+  },
+  {
+    "code": "E14000759",
+    "category": "male",
+    "value": 56407
+  },
+  {
+    "code": "E14000760",
+    "category": "female",
+    "value": 73508
+  },
+  {
+    "code": "E14000760",
+    "category": "male",
+    "value": 73841
+  },
+  {
+    "code": "E14000761",
+    "category": "female",
+    "value": 57741
+  },
+  {
+    "code": "E14000761",
+    "category": "male",
+    "value": 57079
+  },
+  {
+    "code": "E14000762",
+    "category": "female",
+    "value": 72370
+  },
+  {
+    "code": "E14000762",
+    "category": "male",
+    "value": 68089
+  },
+  {
+    "code": "E14000763",
+    "category": "female",
+    "value": 57703
+  },
+  {
+    "code": "E14000763",
+    "category": "male",
+    "value": 52125
+  },
+  {
+    "code": "E14000764",
+    "category": "female",
+    "value": 55588
+  },
+  {
+    "code": "E14000764",
+    "category": "male",
+    "value": 51173
+  },
+  {
+    "code": "E14000765",
+    "category": "female",
+    "value": 43222
+  },
+  {
+    "code": "E14000765",
+    "category": "male",
+    "value": 40620
+  },
+  {
+    "code": "E14000766",
+    "category": "female",
+    "value": 50948
+  },
+  {
+    "code": "E14000766",
+    "category": "male",
+    "value": 48432
+  },
+  {
+    "code": "E14000767",
+    "category": "female",
+    "value": 46939
+  },
+  {
+    "code": "E14000767",
+    "category": "male",
+    "value": 45007
+  },
+  {
+    "code": "E14000768",
+    "category": "female",
+    "value": 56467
+  },
+  {
+    "code": "E14000768",
+    "category": "male",
+    "value": 50481
+  },
+  {
+    "code": "E14000769",
+    "category": "female",
+    "value": 53739
+  },
+  {
+    "code": "E14000769",
+    "category": "male",
+    "value": 52085
+  },
+  {
+    "code": "E14000770",
+    "category": "female",
+    "value": 64271
+  },
+  {
+    "code": "E14000770",
+    "category": "male",
+    "value": 59886
+  },
+  {
+    "code": "E14000771",
+    "category": "female",
+    "value": 46348
+  },
+  {
+    "code": "E14000771",
+    "category": "male",
+    "value": 44966
+  },
+  {
+    "code": "E14000772",
+    "category": "female",
+    "value": 50813
+  },
+  {
+    "code": "E14000772",
+    "category": "male",
+    "value": 50153
+  },
+  {
+    "code": "E14000773",
+    "category": "female",
+    "value": 44588
+  },
+  {
+    "code": "E14000773",
+    "category": "male",
+    "value": 45633
+  },
+  {
+    "code": "E14000774",
+    "category": "female",
+    "value": 46710
+  },
+  {
+    "code": "E14000774",
+    "category": "male",
+    "value": 44688
+  },
+  {
+    "code": "E14000775",
+    "category": "female",
+    "value": 58433
+  },
+  {
+    "code": "E14000775",
+    "category": "male",
+    "value": 52973
+  },
+  {
+    "code": "E14000776",
+    "category": "female",
+    "value": 45711
+  },
+  {
+    "code": "E14000776",
+    "category": "male",
+    "value": 44767
+  },
+  {
+    "code": "E14000777",
+    "category": "female",
+    "value": 77282
+  },
+  {
+    "code": "E14000777",
+    "category": "male",
+    "value": 74605
+  },
+  {
+    "code": "E14000778",
+    "category": "female",
+    "value": 54032
+  },
+  {
+    "code": "E14000778",
+    "category": "male",
+    "value": 50857
+  },
+  {
+    "code": "E14000779",
+    "category": "female",
+    "value": 49667
+  },
+  {
+    "code": "E14000779",
+    "category": "male",
+    "value": 46514
+  },
+  {
+    "code": "E14000780",
+    "category": "female",
+    "value": 44920
+  },
+  {
+    "code": "E14000780",
+    "category": "male",
+    "value": 42423
+  },
+  {
+    "code": "E14000781",
+    "category": "female",
+    "value": 49790
+  },
+  {
+    "code": "E14000781",
+    "category": "male",
+    "value": 49260
+  },
+  {
+    "code": "E14000782",
+    "category": "female",
+    "value": 64636
+  },
+  {
+    "code": "E14000782",
+    "category": "male",
+    "value": 62504
+  },
+  {
+    "code": "E14000783",
+    "category": "female",
+    "value": 64619
+  },
+  {
+    "code": "E14000783",
+    "category": "male",
+    "value": 63643
+  },
+  {
+    "code": "E14000784",
+    "category": "female",
+    "value": 57205
+  },
+  {
+    "code": "E14000784",
+    "category": "male",
+    "value": 55965
+  },
+  {
+    "code": "E14000785",
+    "category": "female",
+    "value": 55106
+  },
+  {
+    "code": "E14000785",
+    "category": "male",
+    "value": 54010
+  },
+  {
+    "code": "E14000786",
+    "category": "female",
+    "value": 47268
+  },
+  {
+    "code": "E14000786",
+    "category": "male",
+    "value": 43666
+  },
+  {
+    "code": "E14000787",
+    "category": "female",
+    "value": 57204
+  },
+  {
+    "code": "E14000787",
+    "category": "male",
+    "value": 51937
+  },
+  {
+    "code": "E14000788",
+    "category": "female",
+    "value": 59084
+  },
+  {
+    "code": "E14000788",
+    "category": "male",
+    "value": 52743
+  },
+  {
+    "code": "E14000789",
+    "category": "female",
+    "value": 66911
+  },
+  {
+    "code": "E14000789",
+    "category": "male",
+    "value": 60971
+  },
+  {
+    "code": "E14000790",
+    "category": "female",
+    "value": 54600
+  },
+  {
+    "code": "E14000790",
+    "category": "male",
+    "value": 53083
+  },
+  {
+    "code": "E14000791",
+    "category": "female",
+    "value": 50371
+  },
+  {
+    "code": "E14000791",
+    "category": "male",
+    "value": 48255
+  },
+  {
+    "code": "E14000792",
+    "category": "female",
+    "value": 59239
+  },
+  {
+    "code": "E14000792",
+    "category": "male",
+    "value": 58132
+  },
+  {
+    "code": "E14000793",
+    "category": "female",
+    "value": 63611
+  },
+  {
+    "code": "E14000793",
+    "category": "male",
+    "value": 61734
+  },
+  {
+    "code": "E14000794",
+    "category": "female",
+    "value": 47612
+  },
+  {
+    "code": "E14000794",
+    "category": "male",
+    "value": 45700
+  },
+  {
+    "code": "E14000795",
+    "category": "female",
+    "value": 46792
+  },
+  {
+    "code": "E14000795",
+    "category": "male",
+    "value": 45321
+  },
+  {
+    "code": "E14000796",
+    "category": "female",
+    "value": 49475
+  },
+  {
+    "code": "E14000796",
+    "category": "male",
+    "value": 45304
+  },
+  {
+    "code": "E14000797",
+    "category": "female",
+    "value": 53659
+  },
+  {
+    "code": "E14000797",
+    "category": "male",
+    "value": 55483
+  },
+  {
+    "code": "E14000798",
+    "category": "female",
+    "value": 51533
+  },
+  {
+    "code": "E14000798",
+    "category": "male",
+    "value": 49187
+  },
+  {
+    "code": "E14000799",
+    "category": "female",
+    "value": 43680
+  },
+  {
+    "code": "E14000799",
+    "category": "male",
+    "value": 41692
+  },
+  {
+    "code": "E14000800",
+    "category": "female",
+    "value": 55274
+  },
+  {
+    "code": "E14000800",
+    "category": "male",
+    "value": 53477
+  },
+  {
+    "code": "E14000801",
+    "category": "female",
+    "value": 60777
+  },
+  {
+    "code": "E14000801",
+    "category": "male",
+    "value": 62727
+  },
+  {
+    "code": "E14000802",
+    "category": "female",
+    "value": 49020
+  },
+  {
+    "code": "E14000802",
+    "category": "male",
+    "value": 46551
+  },
+  {
+    "code": "E14000803",
+    "category": "female",
+    "value": 54994
+  },
+  {
+    "code": "E14000803",
+    "category": "male",
+    "value": 52953
+  },
+  {
+    "code": "E14000804",
+    "category": "female",
+    "value": 56956
+  },
+  {
+    "code": "E14000804",
+    "category": "male",
+    "value": 56209
+  },
+  {
+    "code": "E14000805",
+    "category": "female",
+    "value": 50316
+  },
+  {
+    "code": "E14000805",
+    "category": "male",
+    "value": 49374
+  },
+  {
+    "code": "E14000806",
+    "category": "female",
+    "value": 48105
+  },
+  {
+    "code": "E14000806",
+    "category": "male",
+    "value": 46209
+  },
+  {
+    "code": "E14000807",
+    "category": "female",
+    "value": 77166
+  },
+  {
+    "code": "E14000807",
+    "category": "male",
+    "value": 79135
+  },
+  {
+    "code": "E14000808",
+    "category": "female",
+    "value": 60111
+  },
+  {
+    "code": "E14000808",
+    "category": "male",
+    "value": 60121
+  },
+  {
+    "code": "E14000809",
+    "category": "female",
+    "value": 51228
+  },
+  {
+    "code": "E14000809",
+    "category": "male",
+    "value": 49044
+  },
+  {
+    "code": "E14000810",
+    "category": "female",
+    "value": 56089
+  },
+  {
+    "code": "E14000810",
+    "category": "male",
+    "value": 54393
+  },
+  {
+    "code": "E14000811",
+    "category": "female",
+    "value": 50226
+  },
+  {
+    "code": "E14000811",
+    "category": "male",
+    "value": 47969
+  },
+  {
+    "code": "E14000812",
+    "category": "female",
+    "value": 59285
+  },
+  {
+    "code": "E14000812",
+    "category": "male",
+    "value": 55313
+  },
+  {
+    "code": "E14000813",
+    "category": "female",
+    "value": 62568
+  },
+  {
+    "code": "E14000813",
+    "category": "male",
+    "value": 60446
+  },
+  {
+    "code": "E14000814",
+    "category": "female",
+    "value": 43239
+  },
+  {
+    "code": "E14000814",
+    "category": "male",
+    "value": 40703
+  },
+  {
+    "code": "E14000815",
+    "category": "female",
+    "value": 43651
+  },
+  {
+    "code": "E14000815",
+    "category": "male",
+    "value": 40754
+  },
+  {
+    "code": "E14000816",
+    "category": "female",
+    "value": 56363
+  },
+  {
+    "code": "E14000816",
+    "category": "male",
+    "value": 55010
+  },
+  {
+    "code": "E14000817",
+    "category": "female",
+    "value": 59398
+  },
+  {
+    "code": "E14000817",
+    "category": "male",
+    "value": 56255
+  },
+  {
+    "code": "E14000818",
+    "category": "female",
+    "value": 54841
+  },
+  {
+    "code": "E14000818",
+    "category": "male",
+    "value": 52901
+  },
+  {
+    "code": "E14000819",
+    "category": "female",
+    "value": 48557
+  },
+  {
+    "code": "E14000819",
+    "category": "male",
+    "value": 48517
+  },
+  {
+    "code": "E14000820",
+    "category": "female",
+    "value": 49712
+  },
+  {
+    "code": "E14000820",
+    "category": "male",
+    "value": 46258
+  },
+  {
+    "code": "E14000821",
+    "category": "female",
+    "value": 70296
+  },
+  {
+    "code": "E14000821",
+    "category": "male",
+    "value": 69663
+  },
+  {
+    "code": "E14000822",
+    "category": "female",
+    "value": 75190
+  },
+  {
+    "code": "E14000822",
+    "category": "male",
+    "value": 71911
+  },
+  {
+    "code": "E14000823",
+    "category": "female",
+    "value": 58309
+  },
+  {
+    "code": "E14000823",
+    "category": "male",
+    "value": 55662
+  },
+  {
+    "code": "E14000824",
+    "category": "female",
+    "value": 49643
+  },
+  {
+    "code": "E14000824",
+    "category": "male",
+    "value": 47013
+  },
+  {
+    "code": "E14000825",
+    "category": "female",
+    "value": 46079
+  },
+  {
+    "code": "E14000825",
+    "category": "male",
+    "value": 43221
+  },
+  {
+    "code": "E14000826",
+    "category": "female",
+    "value": 53415
+  },
+  {
+    "code": "E14000826",
+    "category": "male",
+    "value": 51206
+  },
+  {
+    "code": "E14000827",
+    "category": "female",
+    "value": 46631
+  },
+  {
+    "code": "E14000827",
+    "category": "male",
+    "value": 44148
+  },
+  {
+    "code": "E14000828",
+    "category": "female",
+    "value": 44613
+  },
+  {
+    "code": "E14000828",
+    "category": "male",
+    "value": 40394
+  },
+  {
+    "code": "E14000829",
+    "category": "female",
+    "value": 52665
+  },
+  {
+    "code": "E14000829",
+    "category": "male",
+    "value": 51893
+  },
+  {
+    "code": "E14000830",
+    "category": "female",
+    "value": 57414
+  },
+  {
+    "code": "E14000830",
+    "category": "male",
+    "value": 56023
+  },
+  {
+    "code": "E14000831",
+    "category": "female",
+    "value": 51726
+  },
+  {
+    "code": "E14000831",
+    "category": "male",
+    "value": 52031
+  },
+  {
+    "code": "E14000832",
+    "category": "female",
+    "value": 49634
+  },
+  {
+    "code": "E14000832",
+    "category": "male",
+    "value": 49150
+  },
+  {
+    "code": "E14000833",
+    "category": "female",
+    "value": 50442
+  },
+  {
+    "code": "E14000833",
+    "category": "male",
+    "value": 47143
+  },
+  {
+    "code": "E14000834",
+    "category": "female",
+    "value": 45250
+  },
+  {
+    "code": "E14000834",
+    "category": "male",
+    "value": 43438
+  },
+  {
+    "code": "E14000835",
+    "category": "female",
+    "value": 48113
+  },
+  {
+    "code": "E14000835",
+    "category": "male",
+    "value": 45404
+  },
+  {
+    "code": "E14000836",
+    "category": "female",
+    "value": 60353
+  },
+  {
+    "code": "E14000836",
+    "category": "male",
+    "value": 57910
+  },
+  {
+    "code": "E14000837",
+    "category": "female",
+    "value": 47701
+  },
+  {
+    "code": "E14000837",
+    "category": "male",
+    "value": 45322
+  },
+  {
+    "code": "E14000838",
+    "category": "female",
+    "value": 50593
+  },
+  {
+    "code": "E14000838",
+    "category": "male",
+    "value": 48018
+  },
+  {
+    "code": "E14000839",
+    "category": "female",
+    "value": 50003
+  },
+  {
+    "code": "E14000839",
+    "category": "male",
+    "value": 48231
+  },
+  {
+    "code": "E14000840",
+    "category": "female",
+    "value": 44602
+  },
+  {
+    "code": "E14000840",
+    "category": "male",
+    "value": 42731
+  },
+  {
+    "code": "E14000841",
+    "category": "female",
+    "value": 63174
+  },
+  {
+    "code": "E14000841",
+    "category": "male",
+    "value": 60713
+  },
+  {
+    "code": "E14000842",
+    "category": "female",
+    "value": 61532
+  },
+  {
+    "code": "E14000842",
+    "category": "male",
+    "value": 59312
+  },
+  {
+    "code": "E14000843",
+    "category": "female",
+    "value": 47485
+  },
+  {
+    "code": "E14000843",
+    "category": "male",
+    "value": 45137
+  },
+  {
+    "code": "E14000844",
+    "category": "female",
+    "value": 54033
+  },
+  {
+    "code": "E14000844",
+    "category": "male",
+    "value": 51875
+  },
+  {
+    "code": "E14000845",
+    "category": "female",
+    "value": 52536
+  },
+  {
+    "code": "E14000845",
+    "category": "male",
+    "value": 50253
+  },
+  {
+    "code": "E14000846",
+    "category": "female",
+    "value": 50403
+  },
+  {
+    "code": "E14000846",
+    "category": "male",
+    "value": 47963
+  },
+  {
+    "code": "E14000847",
+    "category": "female",
+    "value": 45666
+  },
+  {
+    "code": "E14000847",
+    "category": "male",
+    "value": 43826
+  },
+  {
+    "code": "E14000848",
+    "category": "female",
+    "value": 43808
+  },
+  {
+    "code": "E14000848",
+    "category": "male",
+    "value": 41812
+  },
+  {
+    "code": "E14000849",
+    "category": "female",
+    "value": 55583
+  },
+  {
+    "code": "E14000849",
+    "category": "male",
+    "value": 54572
+  },
+  {
+    "code": "E14000850",
+    "category": "female",
+    "value": 53167
+  },
+  {
+    "code": "E14000850",
+    "category": "male",
+    "value": 49999
+  },
+  {
+    "code": "E14000851",
+    "category": "female",
+    "value": 61238
+  },
+  {
+    "code": "E14000851",
+    "category": "male",
+    "value": 59981
+  },
+  {
+    "code": "E14000852",
+    "category": "female",
+    "value": 51588
+  },
+  {
+    "code": "E14000852",
+    "category": "male",
+    "value": 47759
+  },
+  {
+    "code": "E14000853",
+    "category": "female",
+    "value": 55188
+  },
+  {
+    "code": "E14000853",
+    "category": "male",
+    "value": 52453
+  },
+  {
+    "code": "E14000854",
+    "category": "female",
+    "value": 47756
+  },
+  {
+    "code": "E14000854",
+    "category": "male",
+    "value": 45911
+  },
+  {
+    "code": "E14000855",
+    "category": "female",
+    "value": 72347
+  },
+  {
+    "code": "E14000855",
+    "category": "male",
+    "value": 70469
+  },
+  {
+    "code": "E14000856",
+    "category": "female",
+    "value": 48110
+  },
+  {
+    "code": "E14000856",
+    "category": "male",
+    "value": 45788
+  },
+  {
+    "code": "E14000857",
+    "category": "female",
+    "value": 58000
+  },
+  {
+    "code": "E14000857",
+    "category": "male",
+    "value": 56533
+  },
+  {
+    "code": "E14000858",
+    "category": "female",
+    "value": 53071
+  },
+  {
+    "code": "E14000858",
+    "category": "male",
+    "value": 51634
+  },
+  {
+    "code": "E14000859",
+    "category": "female",
+    "value": 51000
+  },
+  {
+    "code": "E14000859",
+    "category": "male",
+    "value": 47681
+  },
+  {
+    "code": "E14000860",
+    "category": "female",
+    "value": 50064
+  },
+  {
+    "code": "E14000860",
+    "category": "male",
+    "value": 49814
+  },
+  {
+    "code": "E14000861",
+    "category": "female",
+    "value": 47299
+  },
+  {
+    "code": "E14000861",
+    "category": "male",
+    "value": 45899
+  },
+  {
+    "code": "E14000862",
+    "category": "female",
+    "value": 53714
+  },
+  {
+    "code": "E14000862",
+    "category": "male",
+    "value": 53113
+  },
+  {
+    "code": "E14000863",
+    "category": "female",
+    "value": 46336
+  },
+  {
+    "code": "E14000863",
+    "category": "male",
+    "value": 45747
+  },
+  {
+    "code": "E14000864",
+    "category": "female",
+    "value": 54133
+  },
+  {
+    "code": "E14000864",
+    "category": "male",
+    "value": 51790
+  },
+  {
+    "code": "E14000865",
+    "category": "female",
+    "value": 53859
+  },
+  {
+    "code": "E14000865",
+    "category": "male",
+    "value": 53707
+  },
+  {
+    "code": "E14000866",
+    "category": "female",
+    "value": 52324
+  },
+  {
+    "code": "E14000866",
+    "category": "male",
+    "value": 47037
+  },
+  {
+    "code": "E14000867",
+    "category": "female",
+    "value": 58445
+  },
+  {
+    "code": "E14000867",
+    "category": "male",
+    "value": 58260
+  },
+  {
+    "code": "E14000868",
+    "category": "female",
+    "value": 50523
+  },
+  {
+    "code": "E14000868",
+    "category": "male",
+    "value": 48962
+  },
+  {
+    "code": "E14000869",
+    "category": "female",
+    "value": 46555
+  },
+  {
+    "code": "E14000869",
+    "category": "male",
+    "value": 43130
+  },
+  {
+    "code": "E14000870",
+    "category": "female",
+    "value": 55826
+  },
+  {
+    "code": "E14000870",
+    "category": "male",
+    "value": 52781
+  },
+  {
+    "code": "E14000871",
+    "category": "female",
+    "value": 56784
+  },
+  {
+    "code": "E14000871",
+    "category": "male",
+    "value": 55240
+  },
+  {
+    "code": "E14000872",
+    "category": "female",
+    "value": 48237
+  },
+  {
+    "code": "E14000872",
+    "category": "male",
+    "value": 44584
+  },
+  {
+    "code": "E14000873",
+    "category": "female",
+    "value": 66610
+  },
+  {
+    "code": "E14000873",
+    "category": "male",
+    "value": 64847
+  },
+  {
+    "code": "E14000874",
+    "category": "female",
+    "value": 54638
+  },
+  {
+    "code": "E14000874",
+    "category": "male",
+    "value": 53398
+  },
+  {
+    "code": "E14000875",
+    "category": "female",
+    "value": 48396
+  },
+  {
+    "code": "E14000875",
+    "category": "male",
+    "value": 47361
+  },
+  {
+    "code": "E14000876",
+    "category": "female",
+    "value": 45527
+  },
+  {
+    "code": "E14000876",
+    "category": "male",
+    "value": 43492
+  },
+  {
+    "code": "E14000877",
+    "category": "female",
+    "value": 42681
+  },
+  {
+    "code": "E14000877",
+    "category": "male",
+    "value": 41743
+  },
+  {
+    "code": "E14000878",
+    "category": "female",
+    "value": 66310
+  },
+  {
+    "code": "E14000878",
+    "category": "male",
+    "value": 64838
+  },
+  {
+    "code": "E14000879",
+    "category": "female",
+    "value": 49549
+  },
+  {
+    "code": "E14000879",
+    "category": "male",
+    "value": 45792
+  },
+  {
+    "code": "E14000880",
+    "category": "female",
+    "value": 55918
+  },
+  {
+    "code": "E14000880",
+    "category": "male",
+    "value": 56738
+  },
+  {
+    "code": "E14000881",
+    "category": "female",
+    "value": 51361
+  },
+  {
+    "code": "E14000881",
+    "category": "male",
+    "value": 48656
+  },
+  {
+    "code": "E14000882",
+    "category": "female",
+    "value": 82567
+  },
+  {
+    "code": "E14000882",
+    "category": "male",
+    "value": 84718
+  },
+  {
+    "code": "E14000883",
+    "category": "female",
+    "value": 51325
+  },
+  {
+    "code": "E14000883",
+    "category": "male",
+    "value": 48808
+  },
+  {
+    "code": "E14000884",
+    "category": "female",
+    "value": 53515
+  },
+  {
+    "code": "E14000884",
+    "category": "male",
+    "value": 54355
+  },
+  {
+    "code": "E14000885",
+    "category": "female",
+    "value": 47641
+  },
+  {
+    "code": "E14000885",
+    "category": "male",
+    "value": 48307
+  },
+  {
+    "code": "E14000886",
+    "category": "female",
+    "value": 50429
+  },
+  {
+    "code": "E14000886",
+    "category": "male",
+    "value": 47426
+  },
+  {
+    "code": "E14000887",
+    "category": "female",
+    "value": 53248
+  },
+  {
+    "code": "E14000887",
+    "category": "male",
+    "value": 47540
+  },
+  {
+    "code": "E14000888",
+    "category": "female",
+    "value": 51451
+  },
+  {
+    "code": "E14000888",
+    "category": "male",
+    "value": 48633
+  },
+  {
+    "code": "E14000889",
+    "category": "female",
+    "value": 60340
+  },
+  {
+    "code": "E14000889",
+    "category": "male",
+    "value": 60221
+  },
+  {
+    "code": "E14000890",
+    "category": "female",
+    "value": 56831
+  },
+  {
+    "code": "E14000890",
+    "category": "male",
+    "value": 55565
+  },
+  {
+    "code": "E14000891",
+    "category": "female",
+    "value": 45218
+  },
+  {
+    "code": "E14000891",
+    "category": "male",
+    "value": 42194
+  },
+  {
+    "code": "E14000892",
+    "category": "female",
+    "value": 47080
+  },
+  {
+    "code": "E14000892",
+    "category": "male",
+    "value": 45969
+  },
+  {
+    "code": "E14000893",
+    "category": "female",
+    "value": 54781
+  },
+  {
+    "code": "E14000893",
+    "category": "male",
+    "value": 52686
+  },
+  {
+    "code": "E14000894",
+    "category": "female",
+    "value": 52403
+  },
+  {
+    "code": "E14000894",
+    "category": "male",
+    "value": 50656
+  },
+  {
+    "code": "E14000895",
+    "category": "female",
+    "value": 52543
+  },
+  {
+    "code": "E14000895",
+    "category": "male",
+    "value": 52475
+  },
+  {
+    "code": "E14000896",
+    "category": "female",
+    "value": 63238
+  },
+  {
+    "code": "E14000896",
+    "category": "male",
+    "value": 58174
+  },
+  {
+    "code": "E14000897",
+    "category": "female",
+    "value": 57891
+  },
+  {
+    "code": "E14000897",
+    "category": "male",
+    "value": 56496
+  },
+  {
+    "code": "E14000898",
+    "category": "female",
+    "value": 59127
+  },
+  {
+    "code": "E14000898",
+    "category": "male",
+    "value": 57522
+  },
+  {
+    "code": "E14000899",
+    "category": "female",
+    "value": 54469
+  },
+  {
+    "code": "E14000899",
+    "category": "male",
+    "value": 51405
+  },
+  {
+    "code": "E14000900",
+    "category": "female",
+    "value": 55318
+  },
+  {
+    "code": "E14000900",
+    "category": "male",
+    "value": 51291
+  },
+  {
+    "code": "E14000901",
+    "category": "female",
+    "value": 46594
+  },
+  {
+    "code": "E14000901",
+    "category": "male",
+    "value": 45333
+  },
+  {
+    "code": "E14000902",
+    "category": "female",
+    "value": 50486
+  },
+  {
+    "code": "E14000902",
+    "category": "male",
+    "value": 48937
+  },
+  {
+    "code": "E14000903",
+    "category": "female",
+    "value": 50771
+  },
+  {
+    "code": "E14000903",
+    "category": "male",
+    "value": 48256
+  },
+  {
+    "code": "E14000904",
+    "category": "female",
+    "value": 45785
+  },
+  {
+    "code": "E14000904",
+    "category": "male",
+    "value": 44832
+  },
+  {
+    "code": "E14000905",
+    "category": "female",
+    "value": 54359
+  },
+  {
+    "code": "E14000905",
+    "category": "male",
+    "value": 54083
+  },
+  {
+    "code": "E14000906",
+    "category": "female",
+    "value": 52010
+  },
+  {
+    "code": "E14000906",
+    "category": "male",
+    "value": 48295
+  },
+  {
+    "code": "E14000907",
+    "category": "female",
+    "value": 57434
+  },
+  {
+    "code": "E14000907",
+    "category": "male",
+    "value": 53591
+  },
+  {
+    "code": "E14000908",
+    "category": "female",
+    "value": 52128
+  },
+  {
+    "code": "E14000908",
+    "category": "male",
+    "value": 49564
+  },
+  {
+    "code": "E14000909",
+    "category": "female",
+    "value": 54196
+  },
+  {
+    "code": "E14000909",
+    "category": "male",
+    "value": 53858
+  },
+  {
+    "code": "E14000910",
+    "category": "female",
+    "value": 60431
+  },
+  {
+    "code": "E14000910",
+    "category": "male",
+    "value": 57417
+  },
+  {
+    "code": "E14000911",
+    "category": "female",
+    "value": 63299
+  },
+  {
+    "code": "E14000911",
+    "category": "male",
+    "value": 65873
+  },
+  {
+    "code": "E14000912",
+    "category": "female",
+    "value": 51656
+  },
+  {
+    "code": "E14000912",
+    "category": "male",
+    "value": 48615
+  },
+  {
+    "code": "E14000913",
+    "category": "female",
+    "value": 49847
+  },
+  {
+    "code": "E14000913",
+    "category": "male",
+    "value": 47338
+  },
+  {
+    "code": "E14000914",
+    "category": "female",
+    "value": 45653
+  },
+  {
+    "code": "E14000914",
+    "category": "male",
+    "value": 44967
+  },
+  {
+    "code": "E14000915",
+    "category": "female",
+    "value": 43746
+  },
+  {
+    "code": "E14000915",
+    "category": "male",
+    "value": 41917
+  },
+  {
+    "code": "E14000916",
+    "category": "female",
+    "value": 43962
+  },
+  {
+    "code": "E14000916",
+    "category": "male",
+    "value": 40907
+  },
+  {
+    "code": "E14000917",
+    "category": "female",
+    "value": 53831
+  },
+  {
+    "code": "E14000917",
+    "category": "male",
+    "value": 51977
+  },
+  {
+    "code": "E14000918",
+    "category": "female",
+    "value": 50451
+  },
+  {
+    "code": "E14000918",
+    "category": "male",
+    "value": 47179
+  },
+  {
+    "code": "E14000919",
+    "category": "female",
+    "value": 57800
+  },
+  {
+    "code": "E14000919",
+    "category": "male",
+    "value": 60020
+  },
+  {
+    "code": "E14000920",
+    "category": "female",
+    "value": 47855
+  },
+  {
+    "code": "E14000920",
+    "category": "male",
+    "value": 46177
+  },
+  {
+    "code": "E14000921",
+    "category": "female",
+    "value": 55838
+  },
+  {
+    "code": "E14000921",
+    "category": "male",
+    "value": 53240
+  },
+  {
+    "code": "E14000922",
+    "category": "female",
+    "value": 45363
+  },
+  {
+    "code": "E14000922",
+    "category": "male",
+    "value": 43376
+  },
+  {
+    "code": "E14000923",
+    "category": "female",
+    "value": 47930
+  },
+  {
+    "code": "E14000923",
+    "category": "male",
+    "value": 45110
+  },
+  {
+    "code": "E14000924",
+    "category": "female",
+    "value": 53207
+  },
+  {
+    "code": "E14000924",
+    "category": "male",
+    "value": 50978
+  },
+  {
+    "code": "E14000925",
+    "category": "female",
+    "value": 50045
+  },
+  {
+    "code": "E14000925",
+    "category": "male",
+    "value": 47377
+  },
+  {
+    "code": "E14000926",
+    "category": "female",
+    "value": 55888
+  },
+  {
+    "code": "E14000926",
+    "category": "male",
+    "value": 53799
+  },
+  {
+    "code": "E14000927",
+    "category": "female",
+    "value": 61372
+  },
+  {
+    "code": "E14000927",
+    "category": "male",
+    "value": 61310
+  },
+  {
+    "code": "E14000928",
+    "category": "female",
+    "value": 51747
+  },
+  {
+    "code": "E14000928",
+    "category": "male",
+    "value": 49288
+  },
+  {
+    "code": "E14000929",
+    "category": "female",
+    "value": 61769
+  },
+  {
+    "code": "E14000929",
+    "category": "male",
+    "value": 59008
+  },
+  {
+    "code": "E14000930",
+    "category": "female",
+    "value": 76777
+  },
+  {
+    "code": "E14000930",
+    "category": "male",
+    "value": 75305
+  },
+  {
+    "code": "E14000931",
+    "category": "female",
+    "value": 51995
+  },
+  {
+    "code": "E14000931",
+    "category": "male",
+    "value": 49647
+  },
+  {
+    "code": "E14000932",
+    "category": "female",
+    "value": 57531
+  },
+  {
+    "code": "E14000932",
+    "category": "male",
+    "value": 53862
+  },
+  {
+    "code": "E14000933",
+    "category": "female",
+    "value": 52908
+  },
+  {
+    "code": "E14000933",
+    "category": "male",
+    "value": 50299
+  },
+  {
+    "code": "E14000934",
+    "category": "female",
+    "value": 63418
+  },
+  {
+    "code": "E14000934",
+    "category": "male",
+    "value": 61087
+  },
+  {
+    "code": "E14000935",
+    "category": "female",
+    "value": 54665
+  },
+  {
+    "code": "E14000935",
+    "category": "male",
+    "value": 52543
+  },
+  {
+    "code": "E14000936",
+    "category": "female",
+    "value": 47298
+  },
+  {
+    "code": "E14000936",
+    "category": "male",
+    "value": 46453
+  },
+  {
+    "code": "E14000937",
+    "category": "female",
+    "value": 60674
+  },
+  {
+    "code": "E14000937",
+    "category": "male",
+    "value": 58246
+  },
+  {
+    "code": "E14000938",
+    "category": "female",
+    "value": 46904
+  },
+  {
+    "code": "E14000938",
+    "category": "male",
+    "value": 44454
+  },
+  {
+    "code": "E14000939",
+    "category": "female",
+    "value": 55877
+  },
+  {
+    "code": "E14000939",
+    "category": "male",
+    "value": 53604
+  },
+  {
+    "code": "E14000940",
+    "category": "female",
+    "value": 56022
+  },
+  {
+    "code": "E14000940",
+    "category": "male",
+    "value": 54335
+  },
+  {
+    "code": "E14000941",
+    "category": "female",
+    "value": 57353
+  },
+  {
+    "code": "E14000941",
+    "category": "male",
+    "value": 54842
+  },
+  {
+    "code": "E14000942",
+    "category": "female",
+    "value": 64343
+  },
+  {
+    "code": "E14000942",
+    "category": "male",
+    "value": 62196
+  },
+  {
+    "code": "E14000943",
+    "category": "female",
+    "value": 49885
+  },
+  {
+    "code": "E14000943",
+    "category": "male",
+    "value": 49366
+  },
+  {
+    "code": "E14000944",
+    "category": "female",
+    "value": 41343
+  },
+  {
+    "code": "E14000944",
+    "category": "male",
+    "value": 39054
+  },
+  {
+    "code": "E14000945",
+    "category": "female",
+    "value": 47484
+  },
+  {
+    "code": "E14000945",
+    "category": "male",
+    "value": 47895
+  },
+  {
+    "code": "E14000946",
+    "category": "female",
+    "value": 49737
+  },
+  {
+    "code": "E14000946",
+    "category": "male",
+    "value": 46836
+  },
+  {
+    "code": "E14000947",
+    "category": "female",
+    "value": 56109
+  },
+  {
+    "code": "E14000947",
+    "category": "male",
+    "value": 56082
+  },
+  {
+    "code": "E14000948",
+    "category": "female",
+    "value": 51483
+  },
+  {
+    "code": "E14000948",
+    "category": "male",
+    "value": 48139
+  },
+  {
+    "code": "E14000949",
+    "category": "female",
+    "value": 58072
+  },
+  {
+    "code": "E14000949",
+    "category": "male",
+    "value": 56908
+  },
+  {
+    "code": "E14000950",
+    "category": "female",
+    "value": 48348
+  },
+  {
+    "code": "E14000950",
+    "category": "male",
+    "value": 45298
+  },
+  {
+    "code": "E14000951",
+    "category": "female",
+    "value": 56414
+  },
+  {
+    "code": "E14000951",
+    "category": "male",
+    "value": 54250
+  },
+  {
+    "code": "E14000952",
+    "category": "female",
+    "value": 55739
+  },
+  {
+    "code": "E14000952",
+    "category": "male",
+    "value": 54696
+  },
+  {
+    "code": "E14000953",
+    "category": "female",
+    "value": 55573
+  },
+  {
+    "code": "E14000953",
+    "category": "male",
+    "value": 52723
+  },
+  {
+    "code": "E14000954",
+    "category": "female",
+    "value": 53473
+  },
+  {
+    "code": "E14000954",
+    "category": "male",
+    "value": 51256
+  },
+  {
+    "code": "E14000955",
+    "category": "female",
+    "value": 55331
+  },
+  {
+    "code": "E14000955",
+    "category": "male",
+    "value": 54732
+  },
+  {
+    "code": "E14000956",
+    "category": "female",
+    "value": 54760
+  },
+  {
+    "code": "E14000956",
+    "category": "male",
+    "value": 55772
+  },
+  {
+    "code": "E14000957",
+    "category": "female",
+    "value": 47016
+  },
+  {
+    "code": "E14000957",
+    "category": "male",
+    "value": 44608
+  },
+  {
+    "code": "E14000958",
+    "category": "female",
+    "value": 47891
+  },
+  {
+    "code": "E14000958",
+    "category": "male",
+    "value": 45091
+  },
+  {
+    "code": "E14000959",
+    "category": "female",
+    "value": 52335
+  },
+  {
+    "code": "E14000959",
+    "category": "male",
+    "value": 50621
+  },
+  {
+    "code": "E14000960",
+    "category": "female",
+    "value": 53030
+  },
+  {
+    "code": "E14000960",
+    "category": "male",
+    "value": 50794
+  },
+  {
+    "code": "E14000961",
+    "category": "female",
+    "value": 55112
+  },
+  {
+    "code": "E14000961",
+    "category": "male",
+    "value": 52614
+  },
+  {
+    "code": "E14000962",
+    "category": "female",
+    "value": 51030
+  },
+  {
+    "code": "E14000962",
+    "category": "male",
+    "value": 49139
+  },
+  {
+    "code": "E14000963",
+    "category": "female",
+    "value": 53798
+  },
+  {
+    "code": "E14000963",
+    "category": "male",
+    "value": 51640
+  },
+  {
+    "code": "E14000964",
+    "category": "female",
+    "value": 44187
+  },
+  {
+    "code": "E14000964",
+    "category": "male",
+    "value": 41123
+  },
+  {
+    "code": "E14000965",
+    "category": "female",
+    "value": 50024
+  },
+  {
+    "code": "E14000965",
+    "category": "male",
+    "value": 49220
+  },
+  {
+    "code": "E14000966",
+    "category": "female",
+    "value": 38874
+  },
+  {
+    "code": "E14000966",
+    "category": "male",
+    "value": 37735
+  },
+  {
+    "code": "E14000967",
+    "category": "female",
+    "value": 49700
+  },
+  {
+    "code": "E14000967",
+    "category": "male",
+    "value": 47655
+  },
+  {
+    "code": "E14000968",
+    "category": "female",
+    "value": 50751
+  },
+  {
+    "code": "E14000968",
+    "category": "male",
+    "value": 49220
+  },
+  {
+    "code": "E14000969",
+    "category": "female",
+    "value": 46048
+  },
+  {
+    "code": "E14000969",
+    "category": "male",
+    "value": 44244
+  },
+  {
+    "code": "E14000970",
+    "category": "female",
+    "value": 47129
+  },
+  {
+    "code": "E14000970",
+    "category": "male",
+    "value": 45908
+  },
+  {
+    "code": "E14000971",
+    "category": "female",
+    "value": 52943
+  },
+  {
+    "code": "E14000971",
+    "category": "male",
+    "value": 50615
+  },
+  {
+    "code": "E14000972",
+    "category": "female",
+    "value": 43524
+  },
+  {
+    "code": "E14000972",
+    "category": "male",
+    "value": 44647
+  },
+  {
+    "code": "E14000973",
+    "category": "female",
+    "value": 50436
+  },
+  {
+    "code": "E14000973",
+    "category": "male",
+    "value": 49078
+  },
+  {
+    "code": "E14000974",
+    "category": "female",
+    "value": 46181
+  },
+  {
+    "code": "E14000974",
+    "category": "male",
+    "value": 44561
+  },
+  {
+    "code": "E14000975",
+    "category": "female",
+    "value": 43922
+  },
+  {
+    "code": "E14000975",
+    "category": "male",
+    "value": 42581
+  },
+  {
+    "code": "E14000976",
+    "category": "female",
+    "value": 45575
+  },
+  {
+    "code": "E14000976",
+    "category": "male",
+    "value": 44789
+  },
+  {
+    "code": "E14000977",
+    "category": "female",
+    "value": 50218
+  },
+  {
+    "code": "E14000977",
+    "category": "male",
+    "value": 47008
+  },
+  {
+    "code": "E14000978",
+    "category": "female",
+    "value": 61393
+  },
+  {
+    "code": "E14000978",
+    "category": "male",
+    "value": 57120
+  },
+  {
+    "code": "E14000979",
+    "category": "female",
+    "value": 52271
+  },
+  {
+    "code": "E14000979",
+    "category": "male",
+    "value": 49499
+  },
+  {
+    "code": "E14000980",
+    "category": "female",
+    "value": 55080
+  },
+  {
+    "code": "E14000980",
+    "category": "male",
+    "value": 52815
+  },
+  {
+    "code": "E14000981",
+    "category": "female",
+    "value": 52701
+  },
+  {
+    "code": "E14000981",
+    "category": "male",
+    "value": 50308
+  },
+  {
+    "code": "E14000982",
+    "category": "female",
+    "value": 49462
+  },
+  {
+    "code": "E14000982",
+    "category": "male",
+    "value": 47952
+  },
+  {
+    "code": "E14000983",
+    "category": "female",
+    "value": 56498
+  },
+  {
+    "code": "E14000983",
+    "category": "male",
+    "value": 54411
+  },
+  {
+    "code": "E14000984",
+    "category": "female",
+    "value": 54000
+  },
+  {
+    "code": "E14000984",
+    "category": "male",
+    "value": 50953
+  },
+  {
+    "code": "E14000985",
+    "category": "female",
+    "value": 49752
+  },
+  {
+    "code": "E14000985",
+    "category": "male",
+    "value": 46933
+  },
+  {
+    "code": "E14000986",
+    "category": "female",
+    "value": 49415
+  },
+  {
+    "code": "E14000986",
+    "category": "male",
+    "value": 48530
+  },
+  {
+    "code": "E14000987",
+    "category": "female",
+    "value": 45711
+  },
+  {
+    "code": "E14000987",
+    "category": "male",
+    "value": 43540
+  },
+  {
+    "code": "E14000988",
+    "category": "female",
+    "value": 62882
+  },
+  {
+    "code": "E14000988",
+    "category": "male",
+    "value": 59624
+  },
+  {
+    "code": "E14000989",
+    "category": "female",
+    "value": 51672
+  },
+  {
+    "code": "E14000989",
+    "category": "male",
+    "value": 50242
+  },
+  {
+    "code": "E14000990",
+    "category": "female",
+    "value": 57385
+  },
+  {
+    "code": "E14000990",
+    "category": "male",
+    "value": 54186
+  },
+  {
+    "code": "E14000991",
+    "category": "female",
+    "value": 53849
+  },
+  {
+    "code": "E14000991",
+    "category": "male",
+    "value": 50192
+  },
+  {
+    "code": "E14000992",
+    "category": "female",
+    "value": 51306
+  },
+  {
+    "code": "E14000992",
+    "category": "male",
+    "value": 50713
+  },
+  {
+    "code": "E14000993",
+    "category": "female",
+    "value": 52298
+  },
+  {
+    "code": "E14000993",
+    "category": "male",
+    "value": 49407
+  },
+  {
+    "code": "E14000994",
+    "category": "female",
+    "value": 46949
+  },
+  {
+    "code": "E14000994",
+    "category": "male",
+    "value": 45863
+  },
+  {
+    "code": "E14000995",
+    "category": "female",
+    "value": 66948
+  },
+  {
+    "code": "E14000995",
+    "category": "male",
+    "value": 64482
+  },
+  {
+    "code": "E14000996",
+    "category": "female",
+    "value": 54489
+  },
+  {
+    "code": "E14000996",
+    "category": "male",
+    "value": 51227
+  },
+  {
+    "code": "E14000997",
+    "category": "female",
+    "value": 55185
+  },
+  {
+    "code": "E14000997",
+    "category": "male",
+    "value": 52218
+  },
+  {
+    "code": "E14000998",
+    "category": "female",
+    "value": 56528
+  },
+  {
+    "code": "E14000998",
+    "category": "male",
+    "value": 50759
+  },
+  {
+    "code": "E14000999",
+    "category": "female",
+    "value": 52746
+  },
+  {
+    "code": "E14000999",
+    "category": "male",
+    "value": 50188
+  },
+  {
+    "code": "E14001000",
+    "category": "female",
+    "value": 52364
+  },
+  {
+    "code": "E14001000",
+    "category": "male",
+    "value": 50200
+  },
+  {
+    "code": "E14001001",
+    "category": "female",
+    "value": 45686
+  },
+  {
+    "code": "E14001001",
+    "category": "male",
+    "value": 42380
+  },
+  {
+    "code": "E14001002",
+    "category": "female",
+    "value": 72016
+  },
+  {
+    "code": "E14001002",
+    "category": "male",
+    "value": 67620
+  },
+  {
+    "code": "E14001003",
+    "category": "female",
+    "value": 51986
+  },
+  {
+    "code": "E14001003",
+    "category": "male",
+    "value": 47513
+  },
+  {
+    "code": "E14001004",
+    "category": "female",
+    "value": 54070
+  },
+  {
+    "code": "E14001004",
+    "category": "male",
+    "value": 51356
+  },
+  {
+    "code": "E14001005",
+    "category": "female",
+    "value": 60855
+  },
+  {
+    "code": "E14001005",
+    "category": "male",
+    "value": 56917
+  },
+  {
+    "code": "E14001006",
+    "category": "female",
+    "value": 52442
+  },
+  {
+    "code": "E14001006",
+    "category": "male",
+    "value": 48884
+  },
+  {
+    "code": "E14001007",
+    "category": "female",
+    "value": 56992
+  },
+  {
+    "code": "E14001007",
+    "category": "male",
+    "value": 55281
+  },
+  {
+    "code": "E14001008",
+    "category": "female",
+    "value": 61808
+  },
+  {
+    "code": "E14001008",
+    "category": "male",
+    "value": 60296
+  },
+  {
+    "code": "E14001009",
+    "category": "female",
+    "value": 50775
+  },
+  {
+    "code": "E14001009",
+    "category": "male",
+    "value": 50076
+  },
+  {
+    "code": "E14001010",
+    "category": "female",
+    "value": 45546
+  },
+  {
+    "code": "E14001010",
+    "category": "male",
+    "value": 42896
+  },
+  {
+    "code": "E14001011",
+    "category": "female",
+    "value": 51385
+  },
+  {
+    "code": "E14001011",
+    "category": "male",
+    "value": 49037
+  },
+  {
+    "code": "E14001012",
+    "category": "female",
+    "value": 54249
+  },
+  {
+    "code": "E14001012",
+    "category": "male",
+    "value": 51802
+  },
+  {
+    "code": "E14001013",
+    "category": "female",
+    "value": 62665
+  },
+  {
+    "code": "E14001013",
+    "category": "male",
+    "value": 59750
+  },
+  {
+    "code": "E14001014",
+    "category": "female",
+    "value": 43128
+  },
+  {
+    "code": "E14001014",
+    "category": "male",
+    "value": 40163
+  },
+  {
+    "code": "E14001015",
+    "category": "female",
+    "value": 66489
+  },
+  {
+    "code": "E14001015",
+    "category": "male",
+    "value": 64858
+  },
+  {
+    "code": "E14001016",
+    "category": "female",
+    "value": 52384
+  },
+  {
+    "code": "E14001016",
+    "category": "male",
+    "value": 50944
+  },
+  {
+    "code": "E14001017",
+    "category": "female",
+    "value": 48836
+  },
+  {
+    "code": "E14001017",
+    "category": "male",
+    "value": 48124
+  },
+  {
+    "code": "E14001018",
+    "category": "female",
+    "value": 57693
+  },
+  {
+    "code": "E14001018",
+    "category": "male",
+    "value": 56321
+  },
+  {
+    "code": "E14001019",
+    "category": "female",
+    "value": 52980
+  },
+  {
+    "code": "E14001019",
+    "category": "male",
+    "value": 53027
+  },
+  {
+    "code": "E14001020",
+    "category": "female",
+    "value": 45155
+  },
+  {
+    "code": "E14001020",
+    "category": "male",
+    "value": 41884
+  },
+  {
+    "code": "E14001021",
+    "category": "female",
+    "value": 65445
+  },
+  {
+    "code": "E14001021",
+    "category": "male",
+    "value": 63105
+  },
+  {
+    "code": "E14001022",
+    "category": "female",
+    "value": 53213
+  },
+  {
+    "code": "E14001022",
+    "category": "male",
+    "value": 50241
+  },
+  {
+    "code": "E14001023",
+    "category": "female",
+    "value": 56352
+  },
+  {
+    "code": "E14001023",
+    "category": "male",
+    "value": 52520
+  },
+  {
+    "code": "E14001024",
+    "category": "female",
+    "value": 47471
+  },
+  {
+    "code": "E14001024",
+    "category": "male",
+    "value": 45398
+  },
+  {
+    "code": "E14001025",
+    "category": "female",
+    "value": 58819
+  },
+  {
+    "code": "E14001025",
+    "category": "male",
+    "value": 56996
+  },
+  {
+    "code": "E14001026",
+    "category": "female",
+    "value": 55146
+  },
+  {
+    "code": "E14001026",
+    "category": "male",
+    "value": 52384
+  },
+  {
+    "code": "E14001027",
+    "category": "female",
+    "value": 58050
+  },
+  {
+    "code": "E14001027",
+    "category": "male",
+    "value": 56144
+  },
+  {
+    "code": "E14001028",
+    "category": "female",
+    "value": 51570
+  },
+  {
+    "code": "E14001028",
+    "category": "male",
+    "value": 49042
+  },
+  {
+    "code": "E14001029",
+    "category": "female",
+    "value": 49354
+  },
+  {
+    "code": "E14001029",
+    "category": "male",
+    "value": 47072
+  },
+  {
+    "code": "E14001030",
+    "category": "female",
+    "value": 51111
+  },
+  {
+    "code": "E14001030",
+    "category": "male",
+    "value": 50263
+  },
+  {
+    "code": "E14001031",
+    "category": "female",
+    "value": 52841
+  },
+  {
+    "code": "E14001031",
+    "category": "male",
+    "value": 48159
+  },
+  {
+    "code": "E14001032",
+    "category": "female",
+    "value": 92125
+  },
+  {
+    "code": "E14001032",
+    "category": "male",
+    "value": 91957
+  },
+  {
+    "code": "E14001033",
+    "category": "female",
+    "value": 52370
+  },
+  {
+    "code": "E14001033",
+    "category": "male",
+    "value": 48066
+  },
+  {
+    "code": "E14001034",
+    "category": "female",
+    "value": 60581
+  },
+  {
+    "code": "E14001034",
+    "category": "male",
+    "value": 61678
+  },
+  {
+    "code": "E14001035",
+    "category": "female",
+    "value": 50474
+  },
+  {
+    "code": "E14001035",
+    "category": "male",
+    "value": 47747
+  },
+  {
+    "code": "E14001036",
+    "category": "female",
+    "value": 58594
+  },
+  {
+    "code": "E14001036",
+    "category": "male",
+    "value": 53187
+  },
+  {
+    "code": "E14001037",
+    "category": "female",
+    "value": 43208
+  },
+  {
+    "code": "E14001037",
+    "category": "male",
+    "value": 41212
+  },
+  {
+    "code": "E14001038",
+    "category": "female",
+    "value": 58255
+  },
+  {
+    "code": "E14001038",
+    "category": "male",
+    "value": 55307
+  },
+  {
+    "code": "E14001039",
+    "category": "female",
+    "value": 52954
+  },
+  {
+    "code": "E14001039",
+    "category": "male",
+    "value": 51936
+  },
+  {
+    "code": "E14001040",
+    "category": "female",
+    "value": 52222
+  },
+  {
+    "code": "E14001040",
+    "category": "male",
+    "value": 48994
+  },
+  {
+    "code": "E14001041",
+    "category": "female",
+    "value": 52670
+  },
+  {
+    "code": "E14001041",
+    "category": "male",
+    "value": 49601
+  },
+  {
+    "code": "E14001042",
+    "category": "female",
+    "value": 55688
+  },
+  {
+    "code": "E14001042",
+    "category": "male",
+    "value": 53678
+  },
+  {
+    "code": "E14001043",
+    "category": "female",
+    "value": 37549
+  },
+  {
+    "code": "E14001043",
+    "category": "male",
+    "value": 35014
+  },
+  {
+    "code": "E14001044",
+    "category": "female",
+    "value": 36081
+  },
+  {
+    "code": "E14001044",
+    "category": "male",
+    "value": 32836
+  },
+  {
+    "code": "E14001045",
+    "category": "female",
+    "value": 49352
+  },
+  {
+    "code": "E14001045",
+    "category": "male",
+    "value": 47080
+  },
+  {
+    "code": "E14001046",
+    "category": "female",
+    "value": 58106
+  },
+  {
+    "code": "E14001046",
+    "category": "male",
+    "value": 56131
+  },
+  {
+    "code": "E14001047",
+    "category": "female",
+    "value": 55566
+  },
+  {
+    "code": "E14001047",
+    "category": "male",
+    "value": 56053
+  },
+  {
+    "code": "E14001048",
+    "category": "female",
+    "value": 61318
+  },
+  {
+    "code": "E14001048",
+    "category": "male",
+    "value": 58714
+  },
+  {
+    "code": "E14001049",
+    "category": "female",
+    "value": 47571
+  },
+  {
+    "code": "E14001049",
+    "category": "male",
+    "value": 45068
+  },
+  {
+    "code": "E14001050",
+    "category": "female",
+    "value": 49522
+  },
+  {
+    "code": "E14001050",
+    "category": "male",
+    "value": 47416
+  },
+  {
+    "code": "E14001051",
+    "category": "female",
+    "value": 43961
+  },
+  {
+    "code": "E14001051",
+    "category": "male",
+    "value": 43598
+  },
+  {
+    "code": "E14001052",
+    "category": "female",
+    "value": 52999
+  },
+  {
+    "code": "E14001052",
+    "category": "male",
+    "value": 50873
+  },
+  {
+    "code": "E14001053",
+    "category": "female",
+    "value": 40149
+  },
+  {
+    "code": "E14001053",
+    "category": "male",
+    "value": 38688
+  },
+  {
+    "code": "E14001054",
+    "category": "female",
+    "value": 55040
+  },
+  {
+    "code": "E14001054",
+    "category": "male",
+    "value": 52713
+  },
+  {
+    "code": "E14001055",
+    "category": "female",
+    "value": 53420
+  },
+  {
+    "code": "E14001055",
+    "category": "male",
+    "value": 48627
+  },
+  {
+    "code": "E14001056",
+    "category": "female",
+    "value": 58472
+  },
+  {
+    "code": "E14001056",
+    "category": "male",
+    "value": 56552
+  },
+  {
+    "code": "E14001057",
+    "category": "female",
+    "value": 49629
+  },
+  {
+    "code": "E14001057",
+    "category": "male",
+    "value": 47368
+  },
+  {
+    "code": "E14001058",
+    "category": "female",
+    "value": 51785
+  },
+  {
+    "code": "E14001058",
+    "category": "male",
+    "value": 49822
+  },
+  {
+    "code": "E14001059",
+    "category": "female",
+    "value": 57598
+  },
+  {
+    "code": "E14001059",
+    "category": "male",
+    "value": 53983
+  },
+  {
+    "code": "E14001060",
+    "category": "female",
+    "value": 57704
+  },
+  {
+    "code": "E14001060",
+    "category": "male",
+    "value": 56123
+  },
+  {
+    "code": "E14001061",
+    "category": "female",
+    "value": 54112
+  },
+  {
+    "code": "E14001061",
+    "category": "male",
+    "value": 50579
+  },
+  {
+    "code": "E14001062",
+    "category": "female",
+    "value": 51186
+  },
+  {
+    "code": "E14001062",
+    "category": "male",
+    "value": 46944
+  },
+  {
+    "code": "W07000041",
+    "category": "female",
+    "value": 35219
+  },
+  {
+    "code": "W07000041",
+    "category": "male",
+    "value": 33659
+  },
+  {
+    "code": "W07000042",
+    "category": "female",
+    "value": 36129
+  },
+  {
+    "code": "W07000042",
+    "category": "male",
+    "value": 34466
+  },
+  {
+    "code": "W07000043",
+    "category": "female",
+    "value": 42930
+  },
+  {
+    "code": "W07000043",
+    "category": "male",
+    "value": 41437
+  },
+  {
+    "code": "W07000044",
+    "category": "female",
+    "value": 35817
+  },
+  {
+    "code": "W07000044",
+    "category": "male",
+    "value": 36012
+  },
+  {
+    "code": "W07000045",
+    "category": "female",
+    "value": 42322
+  },
+  {
+    "code": "W07000045",
+    "category": "male",
+    "value": 40043
+  },
+  {
+    "code": "W07000046",
+    "category": "female",
+    "value": 40222
+  },
+  {
+    "code": "W07000046",
+    "category": "male",
+    "value": 37837
+  },
+  {
+    "code": "W07000047",
+    "category": "female",
+    "value": 38720
+  },
+  {
+    "code": "W07000047",
+    "category": "male",
+    "value": 39695
+  },
+  {
+    "code": "W07000048",
+    "category": "female",
+    "value": 42026
+  },
+  {
+    "code": "W07000048",
+    "category": "male",
+    "value": 39992
+  },
+  {
+    "code": "W07000049",
+    "category": "female",
+    "value": 35154
+  },
+  {
+    "code": "W07000049",
+    "category": "male",
+    "value": 34216
+  },
+  {
+    "code": "W07000050",
+    "category": "female",
+    "value": 46343
+  },
+  {
+    "code": "W07000050",
+    "category": "male",
+    "value": 45864
+  },
+  {
+    "code": "W07000051",
+    "category": "female",
+    "value": 46925
+  },
+  {
+    "code": "W07000051",
+    "category": "male",
+    "value": 43419
+  },
+  {
+    "code": "W07000052",
+    "category": "female",
+    "value": 34697
+  },
+  {
+    "code": "W07000052",
+    "category": "male",
+    "value": 33474
+  },
+  {
+    "code": "W07000053",
+    "category": "female",
+    "value": 42420
+  },
+  {
+    "code": "W07000053",
+    "category": "male",
+    "value": 40218
+  },
+  {
+    "code": "W07000054",
+    "category": "female",
+    "value": 43407
+  },
+  {
+    "code": "W07000054",
+    "category": "male",
+    "value": 41635
+  },
+  {
+    "code": "W07000055",
+    "category": "female",
+    "value": 42563
+  },
+  {
+    "code": "W07000055",
+    "category": "male",
+    "value": 41349
+  },
+  {
+    "code": "W07000056",
+    "category": "female",
+    "value": 47605
+  },
+  {
+    "code": "W07000056",
+    "category": "male",
+    "value": 45626
+  },
+  {
+    "code": "W07000057",
+    "category": "female",
+    "value": 30700
+  },
+  {
+    "code": "W07000057",
+    "category": "male",
+    "value": 29164
+  },
+  {
+    "code": "W07000058",
+    "category": "female",
+    "value": 28866
+  },
+  {
+    "code": "W07000058",
+    "category": "male",
+    "value": 27002
+  },
+  {
+    "code": "W07000059",
+    "category": "female",
+    "value": 38007
+  },
+  {
+    "code": "W07000059",
+    "category": "male",
+    "value": 36197
+  },
+  {
+    "code": "W07000060",
+    "category": "female",
+    "value": 37736
+  },
+  {
+    "code": "W07000060",
+    "category": "male",
+    "value": 35268
+  },
+  {
+    "code": "W07000061",
+    "category": "female",
+    "value": 29165
+  },
+  {
+    "code": "W07000061",
+    "category": "male",
+    "value": 28359
+  },
+  {
+    "code": "W07000062",
+    "category": "female",
+    "value": 36180
+  },
+  {
+    "code": "W07000062",
+    "category": "male",
+    "value": 34590
+  },
+  {
+    "code": "W07000063",
+    "category": "female",
+    "value": 32223
+  },
+  {
+    "code": "W07000063",
+    "category": "male",
+    "value": 31524
+  },
+  {
+    "code": "W07000064",
+    "category": "female",
+    "value": 36512
+  },
+  {
+    "code": "W07000064",
+    "category": "male",
+    "value": 34963
+  },
+  {
+    "code": "W07000065",
+    "category": "female",
+    "value": 39812
+  },
+  {
+    "code": "W07000065",
+    "category": "male",
+    "value": 37819
+  },
+  {
+    "code": "W07000066",
+    "category": "female",
+    "value": 39762
+  },
+  {
+    "code": "W07000066",
+    "category": "male",
+    "value": 37858
+  },
+  {
+    "code": "W07000067",
+    "category": "female",
+    "value": 37604
+  },
+  {
+    "code": "W07000067",
+    "category": "male",
+    "value": 36036
+  },
+  {
+    "code": "W07000068",
+    "category": "female",
+    "value": 35244
+  },
+  {
+    "code": "W07000068",
+    "category": "male",
+    "value": 34178
+  },
+  {
+    "code": "W07000069",
+    "category": "female",
+    "value": 37256
+  },
+  {
+    "code": "W07000069",
+    "category": "male",
+    "value": 35663
+  },
+  {
+    "code": "W07000070",
+    "category": "female",
+    "value": 36189
+  },
+  {
+    "code": "W07000070",
+    "category": "male",
+    "value": 34435
+  },
+  {
+    "code": "W07000071",
+    "category": "female",
+    "value": 38060
+  },
+  {
+    "code": "W07000071",
+    "category": "male",
+    "value": 36411
+  },
+  {
+    "code": "W07000072",
+    "category": "female",
+    "value": 34065
+  },
+  {
+    "code": "W07000072",
+    "category": "male",
+    "value": 32839
+  },
+  {
+    "code": "W07000073",
+    "category": "female",
+    "value": 43132
+  },
+  {
+    "code": "W07000073",
+    "category": "male",
+    "value": 42628
+  },
+  {
+    "code": "W07000074",
+    "category": "female",
+    "value": 39364
+  },
+  {
+    "code": "W07000074",
+    "category": "male",
+    "value": 37713
+  },
+  {
+    "code": "W07000075",
+    "category": "female",
+    "value": 41564
+  },
+  {
+    "code": "W07000075",
+    "category": "male",
+    "value": 39943
+  },
+  {
+    "code": "W07000076",
+    "category": "female",
+    "value": 44262
+  },
+  {
+    "code": "W07000076",
+    "category": "male",
+    "value": 41692
+  },
+  {
+    "code": "W07000077",
+    "category": "female",
+    "value": 37751
+  },
+  {
+    "code": "W07000077",
+    "category": "male",
+    "value": 36615
+  },
+  {
+    "code": "W07000078",
+    "category": "female",
+    "value": 53148
+  },
+  {
+    "code": "W07000078",
+    "category": "male",
+    "value": 49458
+  },
+  {
+    "code": "W07000079",
+    "category": "female",
+    "value": 49298
+  },
+  {
+    "code": "W07000079",
+    "category": "male",
+    "value": 45750
+  },
+  {
+    "code": "W07000080",
+    "category": "female",
+    "value": 58089
+  },
+  {
+    "code": "W07000080",
+    "category": "male",
+    "value": 55953
+  }
+]
