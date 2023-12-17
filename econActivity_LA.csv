@@ -1,0 +1,628 @@
+code,category,value,areaName
+E09000001,employeePT,440,City of London
+E09000001,employeeFT,3765,City of London
+E09000001,selfEmployerPT,28,City of London
+E09000001,selfEmployerFT,150,City of London
+E09000001,selfPT,366,City of London
+E09000001,selfFT,524,City of London
+E09000001,jobSeeking,282,City of London
+E09000001,studentEmployeePT,39,City of London
+E09000001,studentEmployeeFT,19,City of London
+E09000001,studentSelfEmployerPT,0,City of London
+E09000001,studentSelfEmployerFT,0,City of London
+E09000001,studentSelfPT,12,City of London
+E09000001,studentSelfFT,8,City of London
+E09000001,studentJobSeeking,45,City of London
+E09000001,retired,993,City of London
+E09000001,student,720,City of London
+E09000001,care,192,City of London
+E09000001,sick,124,City of London
+E09000001,otherInactive,297,City of London
+E09000002,employeePT,20789,Barking and Dagenham
+E09000002,employeeFT,49895,Barking and Dagenham
+E09000002,selfEmployerPT,895,Barking and Dagenham
+E09000002,selfEmployerFT,2314,Barking and Dagenham
+E09000002,selfPT,6242,Barking and Dagenham
+E09000002,selfFT,10058,Barking and Dagenham
+E09000002,jobSeeking,7641,Barking and Dagenham
+E09000002,studentEmployeePT,2561,Barking and Dagenham
+E09000002,studentEmployeeFT,1149,Barking and Dagenham
+E09000002,studentSelfEmployerPT,53,Barking and Dagenham
+E09000002,studentSelfEmployerFT,55,Barking and Dagenham
+E09000002,studentSelfPT,347,Barking and Dagenham
+E09000002,studentSelfFT,233,Barking and Dagenham
+E09000002,studentJobSeeking,1435,Barking and Dagenham
+E09000002,retired,16966,Barking and Dagenham
+E09000002,student,12684,Barking and Dagenham
+E09000002,care,13313,Barking and Dagenham
+E09000002,sick,7312,Barking and Dagenham
+E09000002,otherInactive,7804,Barking and Dagenham
+E09000003,employeePT,35308,Barnet
+E09000003,employeeFT,98975,Barnet
+E09000003,selfEmployerPT,1972,Barnet
+E09000003,selfEmployerFT,5817,Barnet
+E09000003,selfPT,18463,Barnet
+E09000003,selfFT,20028,Barnet
+E09000003,jobSeeking,11671,Barnet
+E09000003,studentEmployeePT,3317,Barnet
+E09000003,studentEmployeeFT,1325,Barnet
+E09000003,studentSelfEmployerPT,63,Barnet
+E09000003,studentSelfEmployerFT,49,Barnet
+E09000003,studentSelfPT,558,Barnet
+E09000003,studentSelfFT,301,Barnet
+E09000003,studentJobSeeking,1914,Barnet
+E09000003,retired,46200,Barnet
+E09000003,student,21618,Barnet
+E09000003,care,18968,Barnet
+E09000003,sick,10042,Barnet
+E09000003,otherInactive,12766,Barnet
+E09000004,employeePT,23041,Bexley
+E09000004,employeeFT,72468,Bexley
+E09000004,selfEmployerPT,668,Bexley
+E09000004,selfEmployerFT,2309,Bexley
+E09000004,selfPT,6530,Bexley
+E09000004,selfFT,9881,Bexley
+E09000004,jobSeeking,6279,Bexley
+E09000004,studentEmployeePT,2093,Bexley
+E09000004,studentEmployeeFT,607,Bexley
+E09000004,studentSelfEmployerPT,26,Bexley
+E09000004,studentSelfEmployerFT,19,Bexley
+E09000004,studentSelfPT,223,Bexley
+E09000004,studentSelfFT,118,Bexley
+E09000004,studentJobSeeking,1084,Bexley
+E09000004,retired,39111,Bexley
+E09000004,student,9998,Bexley
+E09000004,care,9472,Bexley
+E09000004,sick,5943,Bexley
+E09000004,otherInactive,5957,Bexley
+E09000005,employeePT,30428,Brent
+E09000005,employeeFT,87484,Brent
+E09000005,selfEmployerPT,1659,Brent
+E09000005,selfEmployerFT,4265,Brent
+E09000005,selfPT,12958,Brent
+E09000005,selfFT,17761,Brent
+E09000005,jobSeeking,12489,Brent
+E09000005,studentEmployeePT,3751,Brent
+E09000005,studentEmployeeFT,1503,Brent
+E09000005,studentSelfEmployerPT,77,Brent
+E09000005,studentSelfEmployerFT,53,Brent
+E09000005,studentSelfPT,648,Brent
+E09000005,studentSelfFT,411,Brent
+E09000005,studentJobSeeking,2495,Brent
+E09000005,retired,33300,Brent
+E09000005,student,22026,Brent
+E09000005,care,19444,Brent
+E09000005,sick,10308,Brent
+E09000005,otherInactive,14082,Brent
+E09000006,employeePT,28934,Bromley
+E09000006,employeeFT,99421,Bromley
+E09000006,selfEmployerPT,1150,Bromley
+E09000006,selfEmployerFT,3661,Bromley
+E09000006,selfPT,11608,Bromley
+E09000006,selfFT,14277,Bromley
+E09000006,jobSeeking,7976,Bromley
+E09000006,studentEmployeePT,2094,Bromley
+E09000006,studentEmployeeFT,595,Bromley
+E09000006,studentSelfEmployerPT,20,Bromley
+E09000006,studentSelfEmployerFT,10,Bromley
+E09000006,studentSelfPT,261,Bromley
+E09000006,studentSelfFT,91,Bromley
+E09000006,studentJobSeeking,992,Bromley
+E09000006,retired,55371,Bromley
+E09000006,student,12008,Bromley
+E09000006,care,12270,Bromley
+E09000006,sick,7260,Bromley
+E09000006,otherInactive,7089,Bromley
+E09000007,employeePT,13644,Camden
+E09000007,employeeFT,62321,Camden
+E09000007,selfEmployerPT,842,Camden
+E09000007,selfEmployerFT,2680,Camden
+E09000007,selfPT,9337,Camden
+E09000007,selfFT,9608,Camden
+E09000007,jobSeeking,7087,Camden
+E09000007,studentEmployeePT,2460,Camden
+E09000007,studentEmployeeFT,763,Camden
+E09000007,studentSelfEmployerPT,45,Camden
+E09000007,studentSelfEmployerFT,15,Camden
+E09000007,studentSelfPT,677,Camden
+E09000007,studentSelfFT,119,Camden
+E09000007,studentJobSeeking,1926,Camden
+E09000007,retired,19146,Camden
+E09000007,student,22035,Camden
+E09000007,care,9675,Camden
+E09000007,sick,8120,Camden
+E09000007,otherInactive,7408,Camden
+E09000008,employeePT,36691,Croydon
+E09000008,employeeFT,112006,Croydon
+E09000008,selfEmployerPT,1483,Croydon
+E09000008,selfEmployerFT,3890,Croydon
+E09000008,selfPT,13352,Croydon
+E09000008,selfFT,16572,Croydon
+E09000008,jobSeeking,12817,Croydon
+E09000008,studentEmployeePT,3626,Croydon
+E09000008,studentEmployeeFT,1190,Croydon
+E09000008,studentSelfEmployerPT,49,Croydon
+E09000008,studentSelfEmployerFT,36,Croydon
+E09000008,studentSelfPT,366,Croydon
+E09000008,studentSelfFT,144,Croydon
+E09000008,studentJobSeeking,1914,Croydon
+E09000008,retired,48038,Croydon
+E09000008,student,18293,Croydon
+E09000008,care,16421,Croydon
+E09000008,sick,11112,Croydon
+E09000008,otherInactive,12396,Croydon
+E09000009,employeePT,31382,Ealing
+E09000009,employeeFT,102137,Ealing
+E09000009,selfEmployerPT,1636,Ealing
+E09000009,selfEmployerFT,3991,Ealing
+E09000009,selfPT,13971,Ealing
+E09000009,selfFT,16493,Ealing
+E09000009,jobSeeking,12979,Ealing
+E09000009,studentEmployeePT,3463,Ealing
+E09000009,studentEmployeeFT,1200,Ealing
+E09000009,studentSelfEmployerPT,51,Ealing
+E09000009,studentSelfEmployerFT,46,Ealing
+E09000009,studentSelfPT,491,Ealing
+E09000009,studentSelfFT,165,Ealing
+E09000009,studentJobSeeking,2286,Ealing
+E09000009,retired,37988,Ealing
+E09000009,student,21886,Ealing
+E09000009,care,21356,Ealing
+E09000009,sick,10280,Ealing
+E09000009,otherInactive,13570,Ealing
+E09000010,employeePT,33680,Enfield
+E09000010,employeeFT,74861,Enfield
+E09000010,selfEmployerPT,1738,Enfield
+E09000010,selfEmployerFT,3818,Enfield
+E09000010,selfPT,12106,Enfield
+E09000010,selfFT,13146,Enfield
+E09000010,jobSeeking,10515,Enfield
+E09000010,studentEmployeePT,2849,Enfield
+E09000010,studentEmployeeFT,966,Enfield
+E09000010,studentSelfEmployerPT,56,Enfield
+E09000010,studentSelfEmployerFT,67,Enfield
+E09000010,studentSelfPT,390,Enfield
+E09000010,studentSelfFT,187,Enfield
+E09000010,studentJobSeeking,1636,Enfield
+E09000010,retired,40133,Enfield
+E09000010,student,18199,Enfield
+E09000010,care,18628,Enfield
+E09000010,sick,10930,Enfield
+E09000010,otherInactive,13277,Enfield
+E09000011,employeePT,24263,Greenwich
+E09000011,employeeFT,88648,Greenwich
+E09000011,selfEmployerPT,893,Greenwich
+E09000011,selfEmployerFT,2805,Greenwich
+E09000011,selfPT,9156,Greenwich
+E09000011,selfFT,12076,Greenwich
+E09000011,jobSeeking,10380,Greenwich
+E09000011,studentEmployeePT,3054,Greenwich
+E09000011,studentEmployeeFT,1313,Greenwich
+E09000011,studentSelfEmployerPT,47,Greenwich
+E09000011,studentSelfEmployerFT,51,Greenwich
+E09000011,studentSelfPT,425,Greenwich
+E09000011,studentSelfFT,204,Greenwich
+E09000011,studentJobSeeking,1887,Greenwich
+E09000011,retired,27139,Greenwich
+E09000011,student,14990,Greenwich
+E09000011,care,12701,Greenwich
+E09000011,sick,9582,Greenwich
+E09000011,otherInactive,10135,Greenwich
+E09000013,employeePT,12467,Hammersmith and Fulham
+E09000013,employeeFT,64081,Hammersmith and Fulham
+E09000013,selfEmployerPT,647,Hammersmith and Fulham
+E09000013,selfEmployerFT,2193,Hammersmith and Fulham
+E09000013,selfPT,7369,Hammersmith and Fulham
+E09000013,selfFT,8265,Hammersmith and Fulham
+E09000013,jobSeeking,6593,Hammersmith and Fulham
+E09000013,studentEmployeePT,1635,Hammersmith and Fulham
+E09000013,studentEmployeeFT,850,Hammersmith and Fulham
+E09000013,studentSelfEmployerPT,36,Hammersmith and Fulham
+E09000013,studentSelfEmployerFT,18,Hammersmith and Fulham
+E09000013,studentSelfPT,454,Hammersmith and Fulham
+E09000013,studentSelfFT,83,Hammersmith and Fulham
+E09000013,studentJobSeeking,1081,Hammersmith and Fulham
+E09000013,retired,15466,Hammersmith and Fulham
+E09000013,student,13190,Hammersmith and Fulham
+E09000013,care,7893,Hammersmith and Fulham
+E09000013,sick,5783,Hammersmith and Fulham
+E09000013,otherInactive,6528,Hammersmith and Fulham
+E09000014,employeePT,25924,Haringey
+E09000014,employeeFT,71940,Haringey
+E09000014,selfEmployerPT,1184,Haringey
+E09000014,selfEmployerFT,2826,Haringey
+E09000014,selfPT,13279,Haringey
+E09000014,selfFT,14732,Haringey
+E09000014,jobSeeking,10496,Haringey
+E09000014,studentEmployeePT,2521,Haringey
+E09000014,studentEmployeeFT,1149,Haringey
+E09000014,studentSelfEmployerPT,36,Haringey
+E09000014,studentSelfEmployerFT,39,Haringey
+E09000014,studentSelfPT,522,Haringey
+E09000014,studentSelfFT,229,Haringey
+E09000014,studentJobSeeking,1451,Haringey
+E09000014,retired,23057,Haringey
+E09000014,student,14742,Haringey
+E09000014,care,11751,Haringey
+E09000014,sick,9487,Haringey
+E09000014,otherInactive,10635,Haringey
+E09000015,employeePT,22624,Harrow
+E09000015,employeeFT,67908,Harrow
+E09000015,selfEmployerPT,1310,Harrow
+E09000015,selfEmployerFT,4164,Harrow
+E09000015,selfPT,9805,Harrow
+E09000015,selfFT,15047,Harrow
+E09000015,jobSeeking,7377,Harrow
+E09000015,studentEmployeePT,2351,Harrow
+E09000015,studentEmployeeFT,983,Harrow
+E09000015,studentSelfEmployerPT,50,Harrow
+E09000015,studentSelfEmployerFT,57,Harrow
+E09000015,studentSelfPT,399,Harrow
+E09000015,studentSelfFT,341,Harrow
+E09000015,studentJobSeeking,1126,Harrow
+E09000015,retired,34632,Harrow
+E09000015,student,14225,Harrow
+E09000015,care,13544,Harrow
+E09000015,sick,5885,Harrow
+E09000015,otherInactive,7795,Harrow
+E09000016,employeePT,24730,Havering
+E09000016,employeeFT,73864,Havering
+E09000016,selfEmployerPT,901,Havering
+E09000016,selfEmployerFT,2881,Havering
+E09000016,selfPT,7595,Havering
+E09000016,selfFT,11863,Havering
+E09000016,jobSeeking,6687,Havering
+E09000016,studentEmployeePT,1771,Havering
+E09000016,studentEmployeeFT,758,Havering
+E09000016,studentSelfEmployerPT,25,Havering
+E09000016,studentSelfEmployerFT,42,Havering
+E09000016,studentSelfPT,188,Havering
+E09000016,studentSelfFT,163,Havering
+E09000016,studentJobSeeking,964,Havering
+E09000016,retired,43979,Havering
+E09000016,student,9680,Havering
+E09000016,care,10786,Havering
+E09000016,sick,6467,Havering
+E09000016,otherInactive,6386,Havering
+E09000017,employeePT,27435,Hillingdon
+E09000017,employeeFT,85820,Hillingdon
+E09000017,selfEmployerPT,1241,Hillingdon
+E09000017,selfEmployerFT,3238,Hillingdon
+E09000017,selfPT,8442,Hillingdon
+E09000017,selfFT,12126,Hillingdon
+E09000017,jobSeeking,9502,Hillingdon
+E09000017,studentEmployeePT,3037,Hillingdon
+E09000017,studentEmployeeFT,918,Hillingdon
+E09000017,studentSelfEmployerPT,45,Hillingdon
+E09000017,studentSelfEmployerFT,27,Hillingdon
+E09000017,studentSelfPT,317,Hillingdon
+E09000017,studentSelfFT,160,Hillingdon
+E09000017,studentJobSeeking,2130,Hillingdon
+E09000017,retired,37565,Hillingdon
+E09000017,student,17415,Hillingdon
+E09000017,care,15604,Hillingdon
+E09000017,sick,7110,Hillingdon
+E09000017,otherInactive,9747,Hillingdon
+E09000018,employeePT,26063,Hounslow
+E09000018,employeeFT,81682,Hounslow
+E09000018,selfEmployerPT,1295,Hounslow
+E09000018,selfEmployerFT,3295,Hounslow
+E09000018,selfPT,9800,Hounslow
+E09000018,selfFT,12328,Hounslow
+E09000018,jobSeeking,10189,Hounslow
+E09000018,studentEmployeePT,2813,Hounslow
+E09000018,studentEmployeeFT,988,Hounslow
+E09000018,studentSelfEmployerPT,52,Hounslow
+E09000018,studentSelfEmployerFT,30,Hounslow
+E09000018,studentSelfPT,292,Hounslow
+E09000018,studentSelfFT,156,Hounslow
+E09000018,studentJobSeeking,1621,Hounslow
+E09000018,retired,29510,Hounslow
+E09000018,student,14360,Hounslow
+E09000018,care,16377,Hounslow
+E09000018,sick,7425,Hounslow
+E09000018,otherInactive,10399,Hounslow
+E09000019,employeePT,15301,Islington
+E09000019,employeeFT,75165,Islington
+E09000019,selfEmployerPT,638,Islington
+E09000019,selfEmployerFT,2142,Islington
+E09000019,selfPT,8121,Islington
+E09000019,selfFT,9790,Islington
+E09000019,jobSeeking,8276,Islington
+E09000019,studentEmployeePT,2259,Islington
+E09000019,studentEmployeeFT,859,Islington
+E09000019,studentSelfEmployerPT,42,Islington
+E09000019,studentSelfEmployerFT,15,Islington
+E09000019,studentSelfPT,535,Islington
+E09000019,studentSelfFT,104,Islington
+E09000019,studentJobSeeking,1667,Islington
+E09000019,retired,16858,Islington
+E09000019,student,15859,Islington
+E09000019,care,8586,Islington
+E09000019,sick,9703,Islington
+E09000019,otherInactive,7707,Islington
+E09000020,employeePT,8811,Kensington and Chelsea
+E09000020,employeeFT,41246,Kensington and Chelsea
+E09000020,selfEmployerPT,800,Kensington and Chelsea
+E09000012,employeePT,25226,Hackney
+E09000012,employeeFT,78498,Hackney
+E09000012,selfEmployerPT,1037,Hackney
+E09000012,selfEmployerFT,2465,Hackney
+E09000012,selfPT,10480,Hackney
+E09000012,selfFT,12922,Hackney
+E09000012,jobSeeking,9945,Hackney
+E09000012,studentEmployeePT,2219,Hackney
+E09000012,studentEmployeeFT,813,Hackney
+E09000012,studentSelfEmployerPT,33,Hackney
+E09000012,studentSelfEmployerFT,12,Hackney
+E09000012,studentSelfPT,479,Hackney
+E09000012,studentSelfFT,124,Hackney
+E09000012,studentJobSeeking,1514,Hackney
+E09000012,retired,16378,Hackney
+E09000012,student,16079,Hackney
+E09000012,care,11029,Hackney
+E09000012,sick,10428,Hackney
+E09000012,otherInactive,9785,Hackney
+E09000020,selfEmployerFT,2593,Kensington and Chelsea
+E09000020,selfPT,6896,Kensington and Chelsea
+E09000020,selfFT,7458,Kensington and Chelsea
+E09000020,jobSeeking,4903,Kensington and Chelsea
+E09000020,studentEmployeePT,822,Kensington and Chelsea
+E09000020,studentEmployeeFT,450,Kensington and Chelsea
+E09000020,studentSelfEmployerPT,21,Kensington and Chelsea
+E09000020,studentSelfEmployerFT,13,Kensington and Chelsea
+E09000020,studentSelfPT,255,Kensington and Chelsea
+E09000020,studentSelfFT,75,Kensington and Chelsea
+E09000020,studentJobSeeking,729,Kensington and Chelsea
+E09000020,retired,16078,Kensington and Chelsea
+E09000020,student,12680,Kensington and Chelsea
+E09000020,care,8499,Kensington and Chelsea
+E09000020,sick,4781,Kensington and Chelsea
+E09000020,otherInactive,5979,Kensington and Chelsea
+E09000021,employeePT,14239,Kingston upon Thames
+E09000021,employeeFT,50885,Kingston upon Thames
+E09000021,selfEmployerPT,635,Kingston upon Thames
+E09000021,selfEmployerFT,1863,Kingston upon Thames
+E09000021,selfPT,6487,Kingston upon Thames
+E09000021,selfFT,7229,Kingston upon Thames
+E09000021,jobSeeking,4087,Kingston upon Thames
+E09000021,studentEmployeePT,2028,Kingston upon Thames
+E09000021,studentEmployeeFT,456,Kingston upon Thames
+E09000021,studentSelfEmployerPT,26,Kingston upon Thames
+E09000021,studentSelfEmployerFT,17,Kingston upon Thames
+E09000021,studentSelfPT,220,Kingston upon Thames
+E09000021,studentSelfFT,63,Kingston upon Thames
+E09000021,studentJobSeeking,1150,Kingston upon Thames
+E09000021,retired,21813,Kingston upon Thames
+E09000021,student,10088,Kingston upon Thames
+E09000021,care,6911,Kingston upon Thames
+E09000021,sick,3429,Kingston upon Thames
+E09000021,otherInactive,3841,Kingston upon Thames
+E09000022,employeePT,25995,Lambeth
+E09000022,employeeFT,121480,Lambeth
+E09000022,selfEmployerPT,1018,Lambeth
+E09000022,selfEmployerFT,2893,Lambeth
+E09000022,selfPT,12060,Lambeth
+E09000022,selfFT,14329,Lambeth
+E09000022,jobSeeking,12258,Lambeth
+E09000022,studentEmployeePT,3028,Lambeth
+E09000022,studentEmployeeFT,1323,Lambeth
+E09000022,studentSelfEmployerPT,37,Lambeth
+E09000022,studentSelfEmployerFT,22,Lambeth
+E09000022,studentSelfPT,485,Lambeth
+E09000022,studentSelfFT,147,Lambeth
+E09000022,studentJobSeeking,2066,Lambeth
+E09000022,retired,22302,Lambeth
+E09000022,student,17750,Lambeth
+E09000022,care,10561,Lambeth
+E09000022,sick,9970,Lambeth
+E09000022,otherInactive,11218,Lambeth
+E09000023,employeePT,27601,Lewisham
+E09000023,employeeFT,94199,Lewisham
+E09000023,selfEmployerPT,1016,Lewisham
+E09000023,selfEmployerFT,2654,Lewisham
+E09000023,selfPT,11669,Lewisham
+E09000023,selfFT,13384,Lewisham
+E09000023,jobSeeking,11891,Lewisham
+E09000023,studentEmployeePT,3316,Lewisham
+E09000023,studentEmployeeFT,1103,Lewisham
+E09000023,studentSelfEmployerPT,44,Lewisham
+E09000023,studentSelfEmployerFT,34,Lewisham
+E09000023,studentSelfPT,529,Lewisham
+E09000023,studentSelfFT,167,Lewisham
+E09000023,studentJobSeeking,1972,Lewisham
+E09000023,retired,25422,Lewisham
+E09000023,student,15810,Lewisham
+E09000023,care,11527,Lewisham
+E09000023,sick,9814,Lewisham
+E09000023,otherInactive,10265,Lewisham
+E09000024,employeePT,18287,Merton
+E09000024,employeeFT,67640,Merton
+E09000024,selfEmployerPT,846,Merton
+E09000024,selfEmployerFT,2553,Merton
+E09000024,selfPT,9051,Merton
+E09000024,selfFT,10837,Merton
+E09000024,jobSeeking,5996,Merton
+E09000024,studentEmployeePT,1838,Merton
+E09000024,studentEmployeeFT,616,Merton
+E09000024,studentSelfEmployerPT,33,Merton
+E09000024,studentSelfEmployerFT,20,Merton
+E09000024,studentSelfPT,241,Merton
+E09000024,studentSelfFT,103,Merton
+E09000024,studentJobSeeking,839,Merton
+E09000024,retired,24084,Merton
+E09000024,student,9494,Merton
+E09000024,care,9999,Merton
+E09000024,sick,4372,Merton
+E09000024,otherInactive,5923,Merton
+E09000025,employeePT,33737,Newham
+E09000025,employeeFT,87586,Newham
+E09000025,selfEmployerPT,1631,Newham
+E09000025,selfEmployerFT,3769,Newham
+E09000025,selfPT,11222,Newham
+E09000025,selfFT,16661,Newham
+E09000025,jobSeeking,13893,Newham
+E09000025,studentEmployeePT,5256,Newham
+E09000025,studentEmployeeFT,2139,Newham
+E09000025,studentSelfEmployerPT,112,Newham
+E09000025,studentSelfEmployerFT,102,Newham
+E09000025,studentSelfPT,740,Newham
+E09000025,studentSelfFT,490,Newham
+E09000025,studentJobSeeking,3401,Newham
+E09000025,retired,21237,Newham
+E09000025,student,24072,Newham
+E09000025,care,24928,Newham
+E09000025,sick,10675,Newham
+E09000025,otherInactive,14522,Newham
+E09000026,employeePT,28248,Redbridge
+E09000026,employeeFT,75540,Redbridge
+E09000026,selfEmployerPT,1812,Redbridge
+E09000026,selfEmployerFT,4492,Redbridge
+E09000026,selfPT,11055,Redbridge
+E09000026,selfFT,15188,Redbridge
+E09000026,jobSeeking,9219,Redbridge
+E09000026,studentEmployeePT,3194,Redbridge
+E09000026,studentEmployeeFT,1139,Redbridge
+E09000026,studentSelfEmployerPT,63,Redbridge
+E09000026,studentSelfEmployerFT,75,Redbridge
+E09000026,studentSelfPT,471,Redbridge
+E09000026,studentSelfFT,353,Redbridge
+E09000026,studentJobSeeking,1617,Redbridge
+E09000026,retired,34086,Redbridge
+E09000026,student,18312,Redbridge
+E09000026,care,19490,Redbridge
+E09000026,sick,7454,Redbridge
+E09000026,otherInactive,10212,Redbridge
+E09000027,employeePT,14360,Richmond upon Thames
+E09000027,employeeFT,59074,Richmond upon Thames
+E09000027,selfEmployerPT,708,Richmond upon Thames
+E09000027,selfEmployerFT,2697,Richmond upon Thames
+E09000027,selfPT,9362,Richmond upon Thames
+E09000027,selfFT,9525,Richmond upon Thames
+E09000027,jobSeeking,4630,Richmond upon Thames
+E09000027,studentEmployeePT,1212,Richmond upon Thames
+E09000027,studentEmployeeFT,329,Richmond upon Thames
+E09000027,studentSelfEmployerPT,14,Richmond upon Thames
+E09000027,studentSelfEmployerFT,9,Richmond upon Thames
+E09000027,studentSelfPT,216,Richmond upon Thames
+E09000027,studentSelfFT,60,Richmond upon Thames
+E09000027,studentJobSeeking,625,Richmond upon Thames
+E09000027,retired,28245,Richmond upon Thames
+E09000027,student,9284,Richmond upon Thames
+E09000027,care,7912,Richmond upon Thames
+E09000027,sick,3492,Richmond upon Thames
+E09000027,otherInactive,4081,Richmond upon Thames
+E09000028,employeePT,26084,Southwark
+E09000028,employeeFT,107612,Southwark
+E09000028,selfEmployerPT,956,Southwark
+E09000028,selfEmployerFT,2767,Southwark
+E09000028,selfPT,10349,Southwark
+E09000028,selfFT,12831,Southwark
+E09000028,jobSeeking,11720,Southwark
+E09000028,studentEmployeePT,3869,Southwark
+E09000028,studentEmployeeFT,1541,Southwark
+E09000028,studentSelfEmployerPT,64,Southwark
+E09000028,studentSelfEmployerFT,37,Southwark
+E09000028,studentSelfPT,648,Southwark
+E09000028,studentSelfFT,193,Southwark
+E09000028,studentJobSeeking,2547,Southwark
+E09000028,retired,21910,Southwark
+E09000028,student,21545,Southwark
+E09000028,care,10658,Southwark
+E09000028,sick,10004,Southwark
+E09000028,otherInactive,10804,Southwark
+E09000029,employeePT,19847,Sutton
+E09000029,employeeFT,62981,Sutton
+E09000029,selfEmployerPT,727,Sutton
+E09000029,selfEmployerFT,2197,Sutton
+E09000029,selfPT,6913,Sutton
+E09000029,selfFT,9331,Sutton
+E09000029,jobSeeking,4867,Sutton
+E09000029,studentEmployeePT,1550,Sutton
+E09000029,studentEmployeeFT,435,Sutton
+E09000029,studentSelfEmployerPT,14,Sutton
+E09000029,studentSelfEmployerFT,13,Sutton
+E09000029,studentSelfPT,154,Sutton
+E09000029,studentSelfFT,64,Sutton
+E09000029,studentJobSeeking,717,Sutton
+E09000029,retired,29291,Sutton
+E09000029,student,8198,Sutton
+E09000029,care,8447,Sutton
+E09000029,sick,5084,Sutton
+E09000029,otherInactive,4829,Sutton
+E09000030,employeePT,25549,Tower Hamlets
+E09000030,employeeFT,100574,Tower Hamlets
+E09000030,selfEmployerPT,1056,Tower Hamlets
+E09000030,selfEmployerFT,2055,Tower Hamlets
+E09000030,selfPT,9098,Tower Hamlets
+E09000030,selfFT,10216,Tower Hamlets
+E09000030,jobSeeking,11891,Tower Hamlets
+E09000030,studentEmployeePT,4430,Tower Hamlets
+E09000030,studentEmployeeFT,1513,Tower Hamlets
+E09000030,studentSelfEmployerPT,57,Tower Hamlets
+E09000030,studentSelfEmployerFT,14,Tower Hamlets
+E09000030,studentSelfPT,644,Tower Hamlets
+E09000030,studentSelfFT,184,Tower Hamlets
+E09000030,studentJobSeeking,3255,Tower Hamlets
+E09000030,retired,14714,Tower Hamlets
+E09000030,student,24195,Tower Hamlets
+E09000030,care,21324,Tower Hamlets
+E09000030,sick,10159,Tower Hamlets
+E09000030,otherInactive,11951,Tower Hamlets
+E09000031,employeePT,25292,Waltham Forest
+E09000031,employeeFT,78731,Waltham Forest
+E09000031,selfEmployerPT,1201,Waltham Forest
+E09000031,selfEmployerFT,3255,Waltham Forest
+E09000031,selfPT,11137,Waltham Forest
+E09000031,selfFT,16054,Waltham Forest
+E09000031,jobSeeking,9983,Waltham Forest
+E09000031,studentEmployeePT,2522,Waltham Forest
+E09000031,studentEmployeeFT,1157,Waltham Forest
+E09000031,studentSelfEmployerPT,77,Waltham Forest
+E09000031,studentSelfEmployerFT,83,Waltham Forest
+E09000031,studentSelfPT,517,Waltham Forest
+E09000031,studentSelfFT,348,Waltham Forest
+E09000031,studentJobSeeking,1478,Waltham Forest
+E09000031,retired,25673,Waltham Forest
+E09000031,student,13724,Waltham Forest
+E09000031,care,13640,Waltham Forest
+E09000031,sick,7844,Waltham Forest
+E09000031,otherInactive,9468,Waltham Forest
+E09000032,employeePT,21650,Wandsworth
+E09000032,employeeFT,132043,Wandsworth
+E09000032,selfEmployerPT,1069,Wandsworth
+E09000032,selfEmployerFT,3867,Wandsworth
+E09000032,selfPT,12884,Wandsworth
+E09000032,selfFT,14709,Wandsworth
+E09000032,jobSeeking,9279,Wandsworth
+E09000032,studentEmployeePT,2505,Wandsworth
+E09000032,studentEmployeeFT,1029,Wandsworth
+E09000032,studentSelfEmployerPT,40,Wandsworth
+E09000032,studentSelfEmployerFT,18,Wandsworth
+E09000032,studentSelfPT,499,Wandsworth
+E09000032,studentSelfFT,128,Wandsworth
+E09000032,studentJobSeeking,1708,Wandsworth
+E09000032,retired,26906,Wandsworth
+E09000032,student,16228,Wandsworth
+E09000032,care,12560,Wandsworth
+E09000032,sick,7360,Wandsworth
+E09000032,otherInactive,9077,Wandsworth
+E09000033,employeePT,13372,Westminster
+E09000033,employeeFT,64250,Westminster
+E09000033,selfEmployerPT,972,Westminster
+E09000033,selfEmployerFT,3110,Westminster
+E09000033,selfPT,8097,Westminster
+E09000033,selfFT,8891,Westminster
+E09000033,jobSeeking,7045,Westminster
+E09000033,studentEmployeePT,1741,Westminster
+E09000033,studentEmployeeFT,726,Westminster
+E09000033,studentSelfEmployerPT,44,Westminster
+E09000033,studentSelfEmployerFT,23,Westminster
+E09000033,studentSelfPT,412,Westminster
+E09000033,studentSelfFT,107,Westminster
+E09000033,studentJobSeeking,1498,Westminster
+E09000033,retired,19329,Westminster
+E09000033,student,19662,Westminster
+E09000033,care,11196,Westminster
+E09000033,sick,8482,Westminster
+E09000033,otherInactive,8513,Westminster
