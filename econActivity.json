@@ -1,0 +1,3764 @@
+[
+  {
+    "code": "E09000001",
+    "category": "employeePT",
+    "value": 440,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "employeeFT",
+    "value": 3765,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "selfEmployerPT",
+    "value": 28,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "selfEmployerFT",
+    "value": 150,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "selfPT",
+    "value": 366,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "selfFT",
+    "value": 524,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "jobSeeking",
+    "value": 282,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentEmployeePT",
+    "value": 39,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentEmployeeFT",
+    "value": 19,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentSelfEmployerPT",
+    "value": 0,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentSelfEmployerFT",
+    "value": 0,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentSelfPT",
+    "value": 12,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentSelfFT",
+    "value": 8,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "studentJobSeeking",
+    "value": 45,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "retired",
+    "value": 993,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "student",
+    "value": 720,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "care",
+    "value": 192,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "sick",
+    "value": 124,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "category": "otherInactive",
+    "value": 297,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000002",
+    "category": "employeePT",
+    "value": 20789,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "employeeFT",
+    "value": 49895,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "selfEmployerPT",
+    "value": 895,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "selfEmployerFT",
+    "value": 2314,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "selfPT",
+    "value": 6242,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "selfFT",
+    "value": 10058,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "jobSeeking",
+    "value": 7641,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentEmployeePT",
+    "value": 2561,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentEmployeeFT",
+    "value": 1149,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentSelfEmployerPT",
+    "value": 53,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentSelfEmployerFT",
+    "value": 55,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentSelfPT",
+    "value": 347,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentSelfFT",
+    "value": 233,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "studentJobSeeking",
+    "value": 1435,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "retired",
+    "value": 16966,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "student",
+    "value": 12684,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "care",
+    "value": 13313,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "sick",
+    "value": 7312,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "category": "otherInactive",
+    "value": 7804,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000003",
+    "category": "employeePT",
+    "value": 35308,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "employeeFT",
+    "value": 98975,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "selfEmployerPT",
+    "value": 1972,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "selfEmployerFT",
+    "value": 5817,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "selfPT",
+    "value": 18463,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "selfFT",
+    "value": 20028,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "jobSeeking",
+    "value": 11671,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentEmployeePT",
+    "value": 3317,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentEmployeeFT",
+    "value": 1325,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentSelfEmployerPT",
+    "value": 63,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentSelfEmployerFT",
+    "value": 49,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentSelfPT",
+    "value": 558,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentSelfFT",
+    "value": 301,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "studentJobSeeking",
+    "value": 1914,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "retired",
+    "value": 46200,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "student",
+    "value": 21618,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "care",
+    "value": 18968,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "sick",
+    "value": 10042,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "category": "otherInactive",
+    "value": 12766,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000004",
+    "category": "employeePT",
+    "value": 23041,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "employeeFT",
+    "value": 72468,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "selfEmployerPT",
+    "value": 668,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "selfEmployerFT",
+    "value": 2309,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "selfPT",
+    "value": 6530,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "selfFT",
+    "value": 9881,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "jobSeeking",
+    "value": 6279,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentEmployeePT",
+    "value": 2093,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentEmployeeFT",
+    "value": 607,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentSelfEmployerPT",
+    "value": 26,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentSelfEmployerFT",
+    "value": 19,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentSelfPT",
+    "value": 223,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentSelfFT",
+    "value": 118,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "studentJobSeeking",
+    "value": 1084,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "retired",
+    "value": 39111,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "student",
+    "value": 9998,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "care",
+    "value": 9472,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "sick",
+    "value": 5943,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "category": "otherInactive",
+    "value": 5957,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000005",
+    "category": "employeePT",
+    "value": 30428,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "employeeFT",
+    "value": 87484,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "selfEmployerPT",
+    "value": 1659,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "selfEmployerFT",
+    "value": 4265,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "selfPT",
+    "value": 12958,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "selfFT",
+    "value": 17761,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "jobSeeking",
+    "value": 12489,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentEmployeePT",
+    "value": 3751,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentEmployeeFT",
+    "value": 1503,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentSelfEmployerPT",
+    "value": 77,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentSelfEmployerFT",
+    "value": 53,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentSelfPT",
+    "value": 648,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentSelfFT",
+    "value": 411,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "studentJobSeeking",
+    "value": 2495,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "retired",
+    "value": 33300,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "student",
+    "value": 22026,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "care",
+    "value": 19444,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "sick",
+    "value": 10308,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "category": "otherInactive",
+    "value": 14082,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000006",
+    "category": "employeePT",
+    "value": 28934,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "employeeFT",
+    "value": 99421,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "selfEmployerPT",
+    "value": 1150,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "selfEmployerFT",
+    "value": 3661,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "selfPT",
+    "value": 11608,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "selfFT",
+    "value": 14277,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "jobSeeking",
+    "value": 7976,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentEmployeePT",
+    "value": 2094,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentEmployeeFT",
+    "value": 595,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentSelfEmployerPT",
+    "value": 20,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentSelfEmployerFT",
+    "value": 10,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentSelfPT",
+    "value": 261,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentSelfFT",
+    "value": 91,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "studentJobSeeking",
+    "value": 992,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "retired",
+    "value": 55371,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "student",
+    "value": 12008,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "care",
+    "value": 12270,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "sick",
+    "value": 7260,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "category": "otherInactive",
+    "value": 7089,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000007",
+    "category": "employeePT",
+    "value": 13644,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "employeeFT",
+    "value": 62321,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "selfEmployerPT",
+    "value": 842,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "selfEmployerFT",
+    "value": 2680,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "selfPT",
+    "value": 9337,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "selfFT",
+    "value": 9608,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "jobSeeking",
+    "value": 7087,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentEmployeePT",
+    "value": 2460,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentEmployeeFT",
+    "value": 763,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentSelfEmployerPT",
+    "value": 45,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentSelfEmployerFT",
+    "value": 15,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentSelfPT",
+    "value": 677,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentSelfFT",
+    "value": 119,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "studentJobSeeking",
+    "value": 1926,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "retired",
+    "value": 19146,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "student",
+    "value": 22035,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "care",
+    "value": 9675,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "sick",
+    "value": 8120,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "category": "otherInactive",
+    "value": 7408,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000008",
+    "category": "employeePT",
+    "value": 36691,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "employeeFT",
+    "value": 112006,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "selfEmployerPT",
+    "value": 1483,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "selfEmployerFT",
+    "value": 3890,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "selfPT",
+    "value": 13352,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "selfFT",
+    "value": 16572,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "jobSeeking",
+    "value": 12817,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentEmployeePT",
+    "value": 3626,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentEmployeeFT",
+    "value": 1190,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentSelfEmployerPT",
+    "value": 49,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentSelfEmployerFT",
+    "value": 36,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentSelfPT",
+    "value": 366,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentSelfFT",
+    "value": 144,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "studentJobSeeking",
+    "value": 1914,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "retired",
+    "value": 48038,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "student",
+    "value": 18293,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "care",
+    "value": 16421,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "sick",
+    "value": 11112,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "category": "otherInactive",
+    "value": 12396,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000009",
+    "category": "employeePT",
+    "value": 31382,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "employeeFT",
+    "value": 102137,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "selfEmployerPT",
+    "value": 1636,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "selfEmployerFT",
+    "value": 3991,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "selfPT",
+    "value": 13971,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "selfFT",
+    "value": 16493,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "jobSeeking",
+    "value": 12979,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentEmployeePT",
+    "value": 3463,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentEmployeeFT",
+    "value": 1200,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentSelfEmployerPT",
+    "value": 51,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentSelfEmployerFT",
+    "value": 46,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentSelfPT",
+    "value": 491,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentSelfFT",
+    "value": 165,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "studentJobSeeking",
+    "value": 2286,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "retired",
+    "value": 37988,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "student",
+    "value": 21886,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "care",
+    "value": 21356,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "sick",
+    "value": 10280,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "category": "otherInactive",
+    "value": 13570,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000010",
+    "category": "employeePT",
+    "value": 33680,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "employeeFT",
+    "value": 74861,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "selfEmployerPT",
+    "value": 1738,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "selfEmployerFT",
+    "value": 3818,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "selfPT",
+    "value": 12106,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "selfFT",
+    "value": 13146,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "jobSeeking",
+    "value": 10515,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentEmployeePT",
+    "value": 2849,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentEmployeeFT",
+    "value": 966,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentSelfEmployerPT",
+    "value": 56,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentSelfEmployerFT",
+    "value": 67,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentSelfPT",
+    "value": 390,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentSelfFT",
+    "value": 187,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "studentJobSeeking",
+    "value": 1636,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "retired",
+    "value": 40133,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "student",
+    "value": 18199,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "care",
+    "value": 18628,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "sick",
+    "value": 10930,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "category": "otherInactive",
+    "value": 13277,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000011",
+    "category": "employeePT",
+    "value": 24263,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "employeeFT",
+    "value": 88648,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "selfEmployerPT",
+    "value": 893,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "selfEmployerFT",
+    "value": 2805,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "selfPT",
+    "value": 9156,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "selfFT",
+    "value": 12076,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "jobSeeking",
+    "value": 10380,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentEmployeePT",
+    "value": 3054,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentEmployeeFT",
+    "value": 1313,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentSelfEmployerPT",
+    "value": 47,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentSelfEmployerFT",
+    "value": 51,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentSelfPT",
+    "value": 425,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentSelfFT",
+    "value": 204,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "studentJobSeeking",
+    "value": 1887,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "retired",
+    "value": 27139,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "student",
+    "value": 14990,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "care",
+    "value": 12701,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "sick",
+    "value": 9582,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "category": "otherInactive",
+    "value": 10135,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000013",
+    "category": "employeePT",
+    "value": 12467,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "employeeFT",
+    "value": 64081,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "selfEmployerPT",
+    "value": 647,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "selfEmployerFT",
+    "value": 2193,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "selfPT",
+    "value": 7369,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "selfFT",
+    "value": 8265,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "jobSeeking",
+    "value": 6593,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentEmployeePT",
+    "value": 1635,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentEmployeeFT",
+    "value": 850,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentSelfEmployerPT",
+    "value": 36,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentSelfEmployerFT",
+    "value": 18,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentSelfPT",
+    "value": 454,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentSelfFT",
+    "value": 83,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "studentJobSeeking",
+    "value": 1081,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "retired",
+    "value": 15466,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "student",
+    "value": 13190,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "care",
+    "value": 7893,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "sick",
+    "value": 5783,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "category": "otherInactive",
+    "value": 6528,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000014",
+    "category": "employeePT",
+    "value": 25924,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "employeeFT",
+    "value": 71940,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "selfEmployerPT",
+    "value": 1184,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "selfEmployerFT",
+    "value": 2826,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "selfPT",
+    "value": 13279,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "selfFT",
+    "value": 14732,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "jobSeeking",
+    "value": 10496,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentEmployeePT",
+    "value": 2521,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentEmployeeFT",
+    "value": 1149,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentSelfEmployerPT",
+    "value": 36,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentSelfEmployerFT",
+    "value": 39,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentSelfPT",
+    "value": 522,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentSelfFT",
+    "value": 229,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "studentJobSeeking",
+    "value": 1451,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "retired",
+    "value": 23057,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "student",
+    "value": 14742,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "care",
+    "value": 11751,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "sick",
+    "value": 9487,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "category": "otherInactive",
+    "value": 10635,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000015",
+    "category": "employeePT",
+    "value": 22624,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "employeeFT",
+    "value": 67908,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "selfEmployerPT",
+    "value": 1310,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "selfEmployerFT",
+    "value": 4164,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "selfPT",
+    "value": 9805,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "selfFT",
+    "value": 15047,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "jobSeeking",
+    "value": 7377,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentEmployeePT",
+    "value": 2351,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentEmployeeFT",
+    "value": 983,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentSelfEmployerPT",
+    "value": 50,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentSelfEmployerFT",
+    "value": 57,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentSelfPT",
+    "value": 399,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentSelfFT",
+    "value": 341,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "studentJobSeeking",
+    "value": 1126,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "retired",
+    "value": 34632,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "student",
+    "value": 14225,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "care",
+    "value": 13544,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "sick",
+    "value": 5885,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "category": "otherInactive",
+    "value": 7795,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000016",
+    "category": "employeePT",
+    "value": 24730,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "employeeFT",
+    "value": 73864,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "selfEmployerPT",
+    "value": 901,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "selfEmployerFT",
+    "value": 2881,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "selfPT",
+    "value": 7595,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "selfFT",
+    "value": 11863,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "jobSeeking",
+    "value": 6687,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentEmployeePT",
+    "value": 1771,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentEmployeeFT",
+    "value": 758,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentSelfEmployerPT",
+    "value": 25,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentSelfEmployerFT",
+    "value": 42,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentSelfPT",
+    "value": 188,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentSelfFT",
+    "value": 163,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "studentJobSeeking",
+    "value": 964,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "retired",
+    "value": 43979,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "student",
+    "value": 9680,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "care",
+    "value": 10786,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "sick",
+    "value": 6467,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "category": "otherInactive",
+    "value": 6386,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000017",
+    "category": "employeePT",
+    "value": 27435,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "employeeFT",
+    "value": 85820,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "selfEmployerPT",
+    "value": 1241,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "selfEmployerFT",
+    "value": 3238,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "selfPT",
+    "value": 8442,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "selfFT",
+    "value": 12126,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "jobSeeking",
+    "value": 9502,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentEmployeePT",
+    "value": 3037,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentEmployeeFT",
+    "value": 918,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentSelfEmployerPT",
+    "value": 45,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentSelfEmployerFT",
+    "value": 27,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentSelfPT",
+    "value": 317,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentSelfFT",
+    "value": 160,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "studentJobSeeking",
+    "value": 2130,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "retired",
+    "value": 37565,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "student",
+    "value": 17415,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "care",
+    "value": 15604,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "sick",
+    "value": 7110,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "category": "otherInactive",
+    "value": 9747,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000018",
+    "category": "employeePT",
+    "value": 26063,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "employeeFT",
+    "value": 81682,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "selfEmployerPT",
+    "value": 1295,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "selfEmployerFT",
+    "value": 3295,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "selfPT",
+    "value": 9800,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "selfFT",
+    "value": 12328,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "jobSeeking",
+    "value": 10189,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentEmployeePT",
+    "value": 2813,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentEmployeeFT",
+    "value": 988,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentSelfEmployerPT",
+    "value": 52,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentSelfEmployerFT",
+    "value": 30,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentSelfPT",
+    "value": 292,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentSelfFT",
+    "value": 156,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "studentJobSeeking",
+    "value": 1621,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "retired",
+    "value": 29510,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "student",
+    "value": 14360,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "care",
+    "value": 16377,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "sick",
+    "value": 7425,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "category": "otherInactive",
+    "value": 10399,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000019",
+    "category": "employeePT",
+    "value": 15301,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "employeeFT",
+    "value": 75165,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "selfEmployerPT",
+    "value": 638,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "selfEmployerFT",
+    "value": 2142,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "selfPT",
+    "value": 8121,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "selfFT",
+    "value": 9790,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "jobSeeking",
+    "value": 8276,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentEmployeePT",
+    "value": 2259,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentEmployeeFT",
+    "value": 859,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentSelfEmployerPT",
+    "value": 42,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentSelfEmployerFT",
+    "value": 15,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentSelfPT",
+    "value": 535,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentSelfFT",
+    "value": 104,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "studentJobSeeking",
+    "value": 1667,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "retired",
+    "value": 16858,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "student",
+    "value": 15859,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "care",
+    "value": 8586,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "sick",
+    "value": 9703,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "category": "otherInactive",
+    "value": 7707,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000020",
+    "category": "employeePT",
+    "value": 8811,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "employeeFT",
+    "value": 41246,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "selfEmployerPT",
+    "value": 800,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000012",
+    "category": "employeePT",
+    "value": 25226,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "employeeFT",
+    "value": 78498,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "selfEmployerPT",
+    "value": 1037,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "selfEmployerFT",
+    "value": 2465,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "selfPT",
+    "value": 10480,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "selfFT",
+    "value": 12922,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "jobSeeking",
+    "value": 9945,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentEmployeePT",
+    "value": 2219,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentEmployeeFT",
+    "value": 813,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentSelfEmployerPT",
+    "value": 33,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentSelfEmployerFT",
+    "value": 12,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentSelfPT",
+    "value": 479,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentSelfFT",
+    "value": 124,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "studentJobSeeking",
+    "value": 1514,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "retired",
+    "value": 16378,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "student",
+    "value": 16079,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "care",
+    "value": 11029,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "sick",
+    "value": 10428,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000012",
+    "category": "otherInactive",
+    "value": 9785,
+    "areaName": "Hackney"
+  },
+  {
+    "code": "E09000020",
+    "category": "selfEmployerFT",
+    "value": 2593,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "selfPT",
+    "value": 6896,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "selfFT",
+    "value": 7458,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "jobSeeking",
+    "value": 4903,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentEmployeePT",
+    "value": 822,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentEmployeeFT",
+    "value": 450,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentSelfEmployerPT",
+    "value": 21,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentSelfEmployerFT",
+    "value": 13,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentSelfPT",
+    "value": 255,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentSelfFT",
+    "value": 75,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "studentJobSeeking",
+    "value": 729,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "retired",
+    "value": 16078,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "student",
+    "value": 12680,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "care",
+    "value": 8499,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "sick",
+    "value": 4781,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "category": "otherInactive",
+    "value": 5979,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000021",
+    "category": "employeePT",
+    "value": 14239,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "employeeFT",
+    "value": 50885,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "selfEmployerPT",
+    "value": 635,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "selfEmployerFT",
+    "value": 1863,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "selfPT",
+    "value": 6487,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "selfFT",
+    "value": 7229,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "jobSeeking",
+    "value": 4087,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentEmployeePT",
+    "value": 2028,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentEmployeeFT",
+    "value": 456,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentSelfEmployerPT",
+    "value": 26,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentSelfEmployerFT",
+    "value": 17,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentSelfPT",
+    "value": 220,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentSelfFT",
+    "value": 63,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "studentJobSeeking",
+    "value": 1150,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "retired",
+    "value": 21813,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "student",
+    "value": 10088,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "care",
+    "value": 6911,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "sick",
+    "value": 3429,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "category": "otherInactive",
+    "value": 3841,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000022",
+    "category": "employeePT",
+    "value": 25995,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "employeeFT",
+    "value": 121480,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "selfEmployerPT",
+    "value": 1018,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "selfEmployerFT",
+    "value": 2893,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "selfPT",
+    "value": 12060,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "selfFT",
+    "value": 14329,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "jobSeeking",
+    "value": 12258,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentEmployeePT",
+    "value": 3028,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentEmployeeFT",
+    "value": 1323,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentSelfEmployerPT",
+    "value": 37,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentSelfEmployerFT",
+    "value": 22,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentSelfPT",
+    "value": 485,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentSelfFT",
+    "value": 147,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "studentJobSeeking",
+    "value": 2066,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "retired",
+    "value": 22302,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "student",
+    "value": 17750,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "care",
+    "value": 10561,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "sick",
+    "value": 9970,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "category": "otherInactive",
+    "value": 11218,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000023",
+    "category": "employeePT",
+    "value": 27601,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "employeeFT",
+    "value": 94199,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "selfEmployerPT",
+    "value": 1016,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "selfEmployerFT",
+    "value": 2654,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "selfPT",
+    "value": 11669,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "selfFT",
+    "value": 13384,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "jobSeeking",
+    "value": 11891,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentEmployeePT",
+    "value": 3316,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentEmployeeFT",
+    "value": 1103,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentSelfEmployerPT",
+    "value": 44,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentSelfEmployerFT",
+    "value": 34,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentSelfPT",
+    "value": 529,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentSelfFT",
+    "value": 167,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "studentJobSeeking",
+    "value": 1972,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "retired",
+    "value": 25422,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "student",
+    "value": 15810,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "care",
+    "value": 11527,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "sick",
+    "value": 9814,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "category": "otherInactive",
+    "value": 10265,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000024",
+    "category": "employeePT",
+    "value": 18287,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "employeeFT",
+    "value": 67640,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "selfEmployerPT",
+    "value": 846,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "selfEmployerFT",
+    "value": 2553,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "selfPT",
+    "value": 9051,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "selfFT",
+    "value": 10837,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "jobSeeking",
+    "value": 5996,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentEmployeePT",
+    "value": 1838,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentEmployeeFT",
+    "value": 616,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentSelfEmployerPT",
+    "value": 33,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentSelfEmployerFT",
+    "value": 20,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentSelfPT",
+    "value": 241,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentSelfFT",
+    "value": 103,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "studentJobSeeking",
+    "value": 839,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "retired",
+    "value": 24084,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "student",
+    "value": 9494,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "care",
+    "value": 9999,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "sick",
+    "value": 4372,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "category": "otherInactive",
+    "value": 5923,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000025",
+    "category": "employeePT",
+    "value": 33737,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "employeeFT",
+    "value": 87586,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "selfEmployerPT",
+    "value": 1631,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "selfEmployerFT",
+    "value": 3769,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "selfPT",
+    "value": 11222,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "selfFT",
+    "value": 16661,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "jobSeeking",
+    "value": 13893,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentEmployeePT",
+    "value": 5256,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentEmployeeFT",
+    "value": 2139,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentSelfEmployerPT",
+    "value": 112,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentSelfEmployerFT",
+    "value": 102,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentSelfPT",
+    "value": 740,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentSelfFT",
+    "value": 490,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "studentJobSeeking",
+    "value": 3401,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "retired",
+    "value": 21237,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "student",
+    "value": 24072,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "care",
+    "value": 24928,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "sick",
+    "value": 10675,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "category": "otherInactive",
+    "value": 14522,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000026",
+    "category": "employeePT",
+    "value": 28248,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "employeeFT",
+    "value": 75540,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "selfEmployerPT",
+    "value": 1812,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "selfEmployerFT",
+    "value": 4492,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "selfPT",
+    "value": 11055,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "selfFT",
+    "value": 15188,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "jobSeeking",
+    "value": 9219,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentEmployeePT",
+    "value": 3194,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentEmployeeFT",
+    "value": 1139,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentSelfEmployerPT",
+    "value": 63,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentSelfEmployerFT",
+    "value": 75,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentSelfPT",
+    "value": 471,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentSelfFT",
+    "value": 353,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "studentJobSeeking",
+    "value": 1617,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "retired",
+    "value": 34086,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "student",
+    "value": 18312,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "care",
+    "value": 19490,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "sick",
+    "value": 7454,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "category": "otherInactive",
+    "value": 10212,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000027",
+    "category": "employeePT",
+    "value": 14360,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "employeeFT",
+    "value": 59074,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "selfEmployerPT",
+    "value": 708,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "selfEmployerFT",
+    "value": 2697,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "selfPT",
+    "value": 9362,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "selfFT",
+    "value": 9525,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "jobSeeking",
+    "value": 4630,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentEmployeePT",
+    "value": 1212,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentEmployeeFT",
+    "value": 329,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentSelfEmployerPT",
+    "value": 14,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentSelfEmployerFT",
+    "value": 9,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentSelfPT",
+    "value": 216,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentSelfFT",
+    "value": 60,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "studentJobSeeking",
+    "value": 625,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "retired",
+    "value": 28245,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "student",
+    "value": 9284,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "care",
+    "value": 7912,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "sick",
+    "value": 3492,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "category": "otherInactive",
+    "value": 4081,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000028",
+    "category": "employeePT",
+    "value": 26084,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "employeeFT",
+    "value": 107612,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "selfEmployerPT",
+    "value": 956,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "selfEmployerFT",
+    "value": 2767,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "selfPT",
+    "value": 10349,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "selfFT",
+    "value": 12831,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "jobSeeking",
+    "value": 11720,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentEmployeePT",
+    "value": 3869,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentEmployeeFT",
+    "value": 1541,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentSelfEmployerPT",
+    "value": 64,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentSelfEmployerFT",
+    "value": 37,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentSelfPT",
+    "value": 648,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentSelfFT",
+    "value": 193,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "studentJobSeeking",
+    "value": 2547,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "retired",
+    "value": 21910,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "student",
+    "value": 21545,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "care",
+    "value": 10658,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "sick",
+    "value": 10004,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "category": "otherInactive",
+    "value": 10804,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000029",
+    "category": "employeePT",
+    "value": 19847,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "employeeFT",
+    "value": 62981,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "selfEmployerPT",
+    "value": 727,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "selfEmployerFT",
+    "value": 2197,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "selfPT",
+    "value": 6913,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "selfFT",
+    "value": 9331,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "jobSeeking",
+    "value": 4867,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentEmployeePT",
+    "value": 1550,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentEmployeeFT",
+    "value": 435,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentSelfEmployerPT",
+    "value": 14,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentSelfEmployerFT",
+    "value": 13,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentSelfPT",
+    "value": 154,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentSelfFT",
+    "value": 64,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "studentJobSeeking",
+    "value": 717,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "retired",
+    "value": 29291,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "student",
+    "value": 8198,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "care",
+    "value": 8447,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "sick",
+    "value": 5084,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "category": "otherInactive",
+    "value": 4829,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000030",
+    "category": "employeePT",
+    "value": 25549,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "employeeFT",
+    "value": 100574,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "selfEmployerPT",
+    "value": 1056,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "selfEmployerFT",
+    "value": 2055,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "selfPT",
+    "value": 9098,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "selfFT",
+    "value": 10216,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "jobSeeking",
+    "value": 11891,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentEmployeePT",
+    "value": 4430,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentEmployeeFT",
+    "value": 1513,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentSelfEmployerPT",
+    "value": 57,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentSelfEmployerFT",
+    "value": 14,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentSelfPT",
+    "value": 644,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentSelfFT",
+    "value": 184,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "studentJobSeeking",
+    "value": 3255,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "retired",
+    "value": 14714,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "student",
+    "value": 24195,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "care",
+    "value": 21324,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "sick",
+    "value": 10159,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "category": "otherInactive",
+    "value": 11951,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000031",
+    "category": "employeePT",
+    "value": 25292,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "employeeFT",
+    "value": 78731,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "selfEmployerPT",
+    "value": 1201,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "selfEmployerFT",
+    "value": 3255,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "selfPT",
+    "value": 11137,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "selfFT",
+    "value": 16054,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "jobSeeking",
+    "value": 9983,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentEmployeePT",
+    "value": 2522,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentEmployeeFT",
+    "value": 1157,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentSelfEmployerPT",
+    "value": 77,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentSelfEmployerFT",
+    "value": 83,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentSelfPT",
+    "value": 517,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentSelfFT",
+    "value": 348,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "studentJobSeeking",
+    "value": 1478,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "retired",
+    "value": 25673,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "student",
+    "value": 13724,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "care",
+    "value": 13640,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "sick",
+    "value": 7844,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "category": "otherInactive",
+    "value": 9468,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000032",
+    "category": "employeePT",
+    "value": 21650,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "employeeFT",
+    "value": 132043,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "selfEmployerPT",
+    "value": 1069,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "selfEmployerFT",
+    "value": 3867,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "selfPT",
+    "value": 12884,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "selfFT",
+    "value": 14709,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "jobSeeking",
+    "value": 9279,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentEmployeePT",
+    "value": 2505,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentEmployeeFT",
+    "value": 1029,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentSelfEmployerPT",
+    "value": 40,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentSelfEmployerFT",
+    "value": 18,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentSelfPT",
+    "value": 499,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentSelfFT",
+    "value": 128,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "studentJobSeeking",
+    "value": 1708,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "retired",
+    "value": 26906,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "student",
+    "value": 16228,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "care",
+    "value": 12560,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "sick",
+    "value": 7360,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "category": "otherInactive",
+    "value": 9077,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000033",
+    "category": "employeePT",
+    "value": 13372,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "employeeFT",
+    "value": 64250,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "selfEmployerPT",
+    "value": 972,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "selfEmployerFT",
+    "value": 3110,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "selfPT",
+    "value": 8097,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "selfFT",
+    "value": 8891,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "jobSeeking",
+    "value": 7045,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentEmployeePT",
+    "value": 1741,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentEmployeeFT",
+    "value": 726,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentSelfEmployerPT",
+    "value": 44,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentSelfEmployerFT",
+    "value": 23,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentSelfPT",
+    "value": 412,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentSelfFT",
+    "value": 107,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "studentJobSeeking",
+    "value": 1498,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "retired",
+    "value": 19329,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "student",
+    "value": 19662,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "care",
+    "value": 11196,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "sick",
+    "value": 8482,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "category": "otherInactive",
+    "value": 8513,
+    "areaName": "Westminster"
+  }
+]
