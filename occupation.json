@@ -1,0 +1,1730 @@
+[
+  {
+    "code": "E09000001",
+    "occupation": "management",
+    "occupationValue": 1104,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "professional",
+    "occupationValue": 2349,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "technical",
+    "occupationValue": 1027,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "admin",
+    "occupationValue": 267,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "skilledTrade",
+    "occupationValue": 97,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "service",
+    "occupationValue": 152,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "sales",
+    "occupationValue": 122,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "manual",
+    "occupationValue": 50,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000001",
+    "occupation": "elementary",
+    "occupationValue": 178,
+    "areaName": "City of London"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "management",
+    "occupationValue": 7786,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "professional",
+    "occupationValue": 15185,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "technical",
+    "occupationValue": 9279,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "admin",
+    "occupationValue": 8798,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "skilledTrade",
+    "occupationValue": 10957,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "service",
+    "occupationValue": 10934,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "sales",
+    "occupationValue": 7686,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "manual",
+    "occupationValue": 8964,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000002",
+    "occupation": "elementary",
+    "occupationValue": 15000,
+    "areaName": "Barking and Dagenham"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "management",
+    "occupationValue": 31481,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "professional",
+    "occupationValue": 50534,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "technical",
+    "occupationValue": 25626,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "admin",
+    "occupationValue": 16520,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "skilledTrade",
+    "occupationValue": 14478,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "service",
+    "occupationValue": 14342,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "sales",
+    "occupationValue": 10663,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "manual",
+    "occupationValue": 8394,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000003",
+    "occupation": "elementary",
+    "occupationValue": 14137,
+    "areaName": "Barnet"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "management",
+    "occupationValue": 14498,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "professional",
+    "occupationValue": 23417,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "technical",
+    "occupationValue": 16138,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "admin",
+    "occupationValue": 15535,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "skilledTrade",
+    "occupationValue": 12291,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "service",
+    "occupationValue": 10333,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "sales",
+    "occupationValue": 8186,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "manual",
+    "occupationValue": 7430,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000004",
+    "occupation": "elementary",
+    "occupationValue": 10155,
+    "areaName": "Bexley"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "management",
+    "occupationValue": 18700,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "professional",
+    "occupationValue": 31402,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "technical",
+    "occupationValue": 19463,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "admin",
+    "occupationValue": 13311,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "skilledTrade",
+    "occupationValue": 15838,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "service",
+    "occupationValue": 13901,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "sales",
+    "occupationValue": 13423,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "manual",
+    "occupationValue": 12932,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000005",
+    "occupation": "elementary",
+    "occupationValue": 22027,
+    "areaName": "Brent"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "management",
+    "occupationValue": 27845,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "professional",
+    "occupationValue": 43321,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "technical",
+    "occupationValue": 25707,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "admin",
+    "occupationValue": 17733,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "skilledTrade",
+    "occupationValue": 12787,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "service",
+    "occupationValue": 11212,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "sales",
+    "occupationValue": 8498,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "manual",
+    "occupationValue": 5867,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000006",
+    "occupation": "elementary",
+    "occupationValue": 9152,
+    "areaName": "Bromley"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "management",
+    "occupationValue": 18247,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "professional",
+    "occupationValue": 35269,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "technical",
+    "occupationValue": 19193,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "admin",
+    "occupationValue": 6330,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "skilledTrade",
+    "occupationValue": 3781,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "service",
+    "occupationValue": 6279,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "sales",
+    "occupationValue": 5152,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "manual",
+    "occupationValue": 2963,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000007",
+    "occupation": "elementary",
+    "occupationValue": 5299,
+    "areaName": "Camden"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "management",
+    "occupationValue": 24114,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "professional",
+    "occupationValue": 43348,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "technical",
+    "occupationValue": 26739,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "admin",
+    "occupationValue": 19333,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "skilledTrade",
+    "occupationValue": 15968,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "service",
+    "occupationValue": 18250,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "sales",
+    "occupationValue": 13735,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "manual",
+    "occupationValue": 10765,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000008",
+    "occupation": "elementary",
+    "occupationValue": 17155,
+    "areaName": "Croydon"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "management",
+    "occupationValue": 24147,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "professional",
+    "occupationValue": 39697,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "technical",
+    "occupationValue": 23951,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "admin",
+    "occupationValue": 14223,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "skilledTrade",
+    "occupationValue": 15555,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "service",
+    "occupationValue": 12912,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "sales",
+    "occupationValue": 12773,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "manual",
+    "occupationValue": 11767,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000009",
+    "occupation": "elementary",
+    "occupationValue": 20000,
+    "areaName": "Ealing"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "management",
+    "occupationValue": 18297,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "professional",
+    "occupationValue": 29475,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "technical",
+    "occupationValue": 17729,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "admin",
+    "occupationValue": 13804,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "skilledTrade",
+    "occupationValue": 14397,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "service",
+    "occupationValue": 13986,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "sales",
+    "occupationValue": 10695,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "manual",
+    "occupationValue": 9440,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000010",
+    "occupation": "elementary",
+    "occupationValue": 16041,
+    "areaName": "Enfield"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "management",
+    "occupationValue": 18826,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "professional",
+    "occupationValue": 35907,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "technical",
+    "occupationValue": 21127,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "admin",
+    "occupationValue": 11610,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "skilledTrade",
+    "occupationValue": 10735,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "service",
+    "occupationValue": 13290,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "sales",
+    "occupationValue": 9173,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "manual",
+    "occupationValue": 7183,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000011",
+    "occupation": "elementary",
+    "occupationValue": 15083,
+    "areaName": "Greenwich"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "management",
+    "occupationValue": 18326,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "professional",
+    "occupationValue": 29279,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "technical",
+    "occupationValue": 18574,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "admin",
+    "occupationValue": 6900,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "skilledTrade",
+    "occupationValue": 4493,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "service",
+    "occupationValue": 6803,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "sales",
+    "occupationValue": 5004,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "manual",
+    "occupationValue": 2711,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000013",
+    "occupation": "elementary",
+    "occupationValue": 6006,
+    "areaName": "Hammersmith and Fulham"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "management",
+    "occupationValue": 17168,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "professional",
+    "occupationValue": 33738,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "technical",
+    "occupationValue": 21842,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "admin",
+    "occupationValue": 9189,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "skilledTrade",
+    "occupationValue": 11265,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "service",
+    "occupationValue": 10419,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "sales",
+    "occupationValue": 8084,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "manual",
+    "occupationValue": 6027,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000014",
+    "occupation": "elementary",
+    "occupationValue": 16651,
+    "areaName": "Haringey"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "management",
+    "occupationValue": 17524,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "professional",
+    "occupationValue": 31409,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "technical",
+    "occupationValue": 14526,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "admin",
+    "occupationValue": 12204,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "skilledTrade",
+    "occupationValue": 12184,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "service",
+    "occupationValue": 8624,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "sales",
+    "occupationValue": 9061,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "manual",
+    "occupationValue": 7806,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000015",
+    "occupation": "elementary",
+    "occupationValue": 11702,
+    "areaName": "Harrow"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "management",
+    "occupationValue": 15438,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "professional",
+    "occupationValue": 24339,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "technical",
+    "occupationValue": 16717,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "admin",
+    "occupationValue": 16701,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "skilledTrade",
+    "occupationValue": 14375,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "service",
+    "occupationValue": 10294,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "sales",
+    "occupationValue": 8162,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "manual",
+    "occupationValue": 8058,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000016",
+    "occupation": "elementary",
+    "occupationValue": 10697,
+    "areaName": "Havering"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "management",
+    "occupationValue": 18524,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "professional",
+    "occupationValue": 30087,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "technical",
+    "occupationValue": 18036,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "admin",
+    "occupationValue": 14401,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "skilledTrade",
+    "occupationValue": 13152,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "service",
+    "occupationValue": 12044,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "sales",
+    "occupationValue": 10772,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "manual",
+    "occupationValue": 10752,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000017",
+    "occupation": "elementary",
+    "occupationValue": 15035,
+    "areaName": "Hillingdon"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "management",
+    "occupationValue": 17914,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "professional",
+    "occupationValue": 27755,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "technical",
+    "occupationValue": 17668,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "admin",
+    "occupationValue": 12160,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "skilledTrade",
+    "occupationValue": 12138,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "service",
+    "occupationValue": 11345,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "sales",
+    "occupationValue": 11117,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "manual",
+    "occupationValue": 10067,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000018",
+    "occupation": "elementary",
+    "occupationValue": 18636,
+    "areaName": "Hounslow"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "management",
+    "occupationValue": 17439,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "professional",
+    "occupationValue": 39312,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "technical",
+    "occupationValue": 22879,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "admin",
+    "occupationValue": 7333,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "skilledTrade",
+    "occupationValue": 4945,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "service",
+    "occupationValue": 6756,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "sales",
+    "occupationValue": 5601,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "manual",
+    "occupationValue": 3496,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000019",
+    "occupation": "elementary",
+    "occupationValue": 7211,
+    "areaName": "Islington"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "management",
+    "occupationValue": 18485,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "professional",
+    "occupationValue": 19186,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "technical",
+    "occupationValue": 12294,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "admin",
+    "occupationValue": 4117,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "skilledTrade",
+    "occupationValue": 2221,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "service",
+    "occupationValue": 5064,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "sales",
+    "occupationValue": 3182,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "manual",
+    "occupationValue": 1678,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000020",
+    "occupation": "elementary",
+    "occupationValue": 3214,
+    "areaName": "Kensington and Chelsea"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "management",
+    "occupationValue": 14674,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "professional",
+    "occupationValue": 23933,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "technical",
+    "occupationValue": 13140,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "admin",
+    "occupationValue": 7171,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "skilledTrade",
+    "occupationValue": 5769,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "service",
+    "occupationValue": 5947,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "sales",
+    "occupationValue": 5296,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "manual",
+    "occupationValue": 2854,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000021",
+    "occupation": "elementary",
+    "occupationValue": 5364,
+    "areaName": "Kingston upon Thames"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "management",
+    "occupationValue": 25695,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "professional",
+    "occupationValue": 55140,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "technical",
+    "occupationValue": 34580,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "admin",
+    "occupationValue": 12564,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "skilledTrade",
+    "occupationValue": 9463,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "service",
+    "occupationValue": 13130,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "sales",
+    "occupationValue": 8956,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "manual",
+    "occupationValue": 6187,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000022",
+    "occupation": "elementary",
+    "occupationValue": 17104,
+    "areaName": "Lambeth"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "management",
+    "occupationValue": 20155,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "professional",
+    "occupationValue": 41888,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "technical",
+    "occupationValue": 27269,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "admin",
+    "occupationValue": 11892,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "skilledTrade",
+    "occupationValue": 10473,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "service",
+    "occupationValue": 13363,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "sales",
+    "occupationValue": 9774,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "manual",
+    "occupationValue": 6369,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000023",
+    "occupation": "elementary",
+    "occupationValue": 14530,
+    "areaName": "Lewisham"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "management",
+    "occupationValue": 17692,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "professional",
+    "occupationValue": 29411,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "technical",
+    "occupationValue": 16337,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "admin",
+    "occupationValue": 9159,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "skilledTrade",
+    "occupationValue": 9115,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "service",
+    "occupationValue": 8623,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "sales",
+    "occupationValue": 7030,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "manual",
+    "occupationValue": 5202,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000024",
+    "occupation": "elementary",
+    "occupationValue": 9496,
+    "areaName": "Merton"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "management",
+    "occupationValue": 15522,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "professional",
+    "occupationValue": 32704,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "technical",
+    "occupationValue": 19608,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "admin",
+    "occupationValue": 12621,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "skilledTrade",
+    "occupationValue": 16496,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "service",
+    "occupationValue": 14189,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "sales",
+    "occupationValue": 14529,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "manual",
+    "occupationValue": 11822,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000025",
+    "occupation": "elementary",
+    "occupationValue": 25954,
+    "areaName": "Newham"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "management",
+    "occupationValue": 18627,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "professional",
+    "occupationValue": 34456,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "technical",
+    "occupationValue": 17250,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "admin",
+    "occupationValue": 14551,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "skilledTrade",
+    "occupationValue": 12846,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "service",
+    "occupationValue": 9843,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "sales",
+    "occupationValue": 10747,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "manual",
+    "occupationValue": 9229,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000026",
+    "occupation": "elementary",
+    "occupationValue": 14078,
+    "areaName": "Redbridge"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "management",
+    "occupationValue": 23031,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "professional",
+    "occupationValue": 30417,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "technical",
+    "occupationValue": 17549,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "admin",
+    "occupationValue": 6935,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "skilledTrade",
+    "occupationValue": 4478,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "service",
+    "occupationValue": 5468,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "sales",
+    "occupationValue": 3749,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "manual",
+    "occupationValue": 2187,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000027",
+    "occupation": "elementary",
+    "occupationValue": 3752,
+    "areaName": "Richmond upon Thames"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "management",
+    "occupationValue": 23109,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "professional",
+    "occupationValue": 51143,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "technical",
+    "occupationValue": 28878,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "admin",
+    "occupationValue": 11443,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "skilledTrade",
+    "occupationValue": 8030,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "service",
+    "occupationValue": 12816,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "sales",
+    "occupationValue": 8705,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "manual",
+    "occupationValue": 5990,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000028",
+    "occupation": "elementary",
+    "occupationValue": 16833,
+    "areaName": "Southwark"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "management",
+    "occupationValue": 14604,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "professional",
+    "occupationValue": 25047,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "technical",
+    "occupationValue": 14218,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "admin",
+    "occupationValue": 11239,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "skilledTrade",
+    "occupationValue": 10383,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "service",
+    "occupationValue": 9022,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "sales",
+    "occupationValue": 6802,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "manual",
+    "occupationValue": 5380,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000029",
+    "occupation": "elementary",
+    "occupationValue": 7527,
+    "areaName": "Sutton"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "management",
+    "occupationValue": 20628,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "professional",
+    "occupationValue": 49021,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "technical",
+    "occupationValue": 27819,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "admin",
+    "occupationValue": 11184,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "skilledTrade",
+    "occupationValue": 7508,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "service",
+    "occupationValue": 9276,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "sales",
+    "occupationValue": 10470,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "manual",
+    "occupationValue": 6949,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000030",
+    "occupation": "elementary",
+    "occupationValue": 12537,
+    "areaName": "Tower Hamlets"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "management",
+    "occupationValue": 17473,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "professional",
+    "occupationValue": 32185,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "technical",
+    "occupationValue": 21194,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "admin",
+    "occupationValue": 11608,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "skilledTrade",
+    "occupationValue": 14037,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "service",
+    "occupationValue": 10474,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "sales",
+    "occupationValue": 9284,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "manual",
+    "occupationValue": 8341,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000031",
+    "occupation": "elementary",
+    "occupationValue": 15776,
+    "areaName": "Waltham Forest"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "management",
+    "occupationValue": 35827,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "professional",
+    "occupationValue": 61870,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "technical",
+    "occupationValue": 37329,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "admin",
+    "occupationValue": 13285,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "skilledTrade",
+    "occupationValue": 7838,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "service",
+    "occupationValue": 11073,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "sales",
+    "occupationValue": 8031,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "manual",
+    "occupationValue": 5178,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000032",
+    "occupation": "elementary",
+    "occupationValue": 10011,
+    "areaName": "Wandsworth"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "management",
+    "occupationValue": 22858,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "professional",
+    "occupationValue": 31136,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "technical",
+    "occupationValue": 17588,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "admin",
+    "occupationValue": 6750,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "skilledTrade",
+    "occupationValue": 3481,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "service",
+    "occupationValue": 6187,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "sales",
+    "occupationValue": 5211,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "manual",
+    "occupationValue": 2781,
+    "areaName": "Westminster"
+  },
+  {
+    "code": "E09000033",
+    "occupation": "elementary",
+    "occupationValue": 5750,
+    "areaName": "Westminster"
+  }
+]
