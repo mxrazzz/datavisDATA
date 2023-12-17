@@ -1,0 +1,289 @@
+code,category,value,areaName
+E09000001,management,1104,City of London
+E09000001,professional,2349,City of London
+E09000001,technical,1027,City of London
+E09000001,admin,267,City of London
+E09000001,skilledTrade,97,City of London
+E09000001,service,152,City of London
+E09000001,sales,122,City of London
+E09000001,manual,50,City of London
+E09000001,elementary,178,City of London
+E09000002,management,7786,Barking and Dagenham
+E09000002,professional,15185,Barking and Dagenham
+E09000002,technical,9279,Barking and Dagenham
+E09000002,admin,8798,Barking and Dagenham
+E09000002,skilledTrade,10957,Barking and Dagenham
+E09000002,service,10934,Barking and Dagenham
+E09000002,sales,7686,Barking and Dagenham
+E09000002,manual,8964,Barking and Dagenham
+E09000002,elementary,15000,Barking and Dagenham
+E09000003,management,31481,Barnet
+E09000003,professional,50534,Barnet
+E09000003,technical,25626,Barnet
+E09000003,admin,16520,Barnet
+E09000003,skilledTrade,14478,Barnet
+E09000003,service,14342,Barnet
+E09000003,sales,10663,Barnet
+E09000003,manual,8394,Barnet
+E09000003,elementary,14137,Barnet
+E09000004,management,14498,Bexley
+E09000004,professional,23417,Bexley
+E09000004,technical,16138,Bexley
+E09000004,admin,15535,Bexley
+E09000004,skilledTrade,12291,Bexley
+E09000004,service,10333,Bexley
+E09000004,sales,8186,Bexley
+E09000004,manual,7430,Bexley
+E09000004,elementary,10155,Bexley
+E09000005,management,18700,Brent
+E09000005,professional,31402,Brent
+E09000005,technical,19463,Brent
+E09000005,admin,13311,Brent
+E09000005,skilledTrade,15838,Brent
+E09000005,service,13901,Brent
+E09000005,sales,13423,Brent
+E09000005,manual,12932,Brent
+E09000005,elementary,22027,Brent
+E09000006,management,27845,Bromley
+E09000006,professional,43321,Bromley
+E09000006,technical,25707,Bromley
+E09000006,admin,17733,Bromley
+E09000006,skilledTrade,12787,Bromley
+E09000006,service,11212,Bromley
+E09000006,sales,8498,Bromley
+E09000006,manual,5867,Bromley
+E09000006,elementary,9152,Bromley
+E09000007,management,18247,Camden
+E09000007,professional,35269,Camden
+E09000007,technical,19193,Camden
+E09000007,admin,6330,Camden
+E09000007,skilledTrade,3781,Camden
+E09000007,service,6279,Camden
+E09000007,sales,5152,Camden
+E09000007,manual,2963,Camden
+E09000007,elementary,5299,Camden
+E09000008,management,24114,Croydon
+E09000008,professional,43348,Croydon
+E09000008,technical,26739,Croydon
+E09000008,admin,19333,Croydon
+E09000008,skilledTrade,15968,Croydon
+E09000008,service,18250,Croydon
+E09000008,sales,13735,Croydon
+E09000008,manual,10765,Croydon
+E09000008,elementary,17155,Croydon
+E09000009,management,24147,Ealing
+E09000009,professional,39697,Ealing
+E09000009,technical,23951,Ealing
+E09000009,admin,14223,Ealing
+E09000009,skilledTrade,15555,Ealing
+E09000009,service,12912,Ealing
+E09000009,sales,12773,Ealing
+E09000009,manual,11767,Ealing
+E09000009,elementary,20000,Ealing
+E09000010,management,18297,Enfield
+E09000010,professional,29475,Enfield
+E09000010,technical,17729,Enfield
+E09000010,admin,13804,Enfield
+E09000010,skilledTrade,14397,Enfield
+E09000010,service,13986,Enfield
+E09000010,sales,10695,Enfield
+E09000010,manual,9440,Enfield
+E09000010,elementary,16041,Enfield
+E09000011,management,18826,Greenwich
+E09000011,professional,35907,Greenwich
+E09000011,technical,21127,Greenwich
+E09000011,admin,11610,Greenwich
+E09000011,skilledTrade,10735,Greenwich
+E09000011,service,13290,Greenwich
+E09000011,sales,9173,Greenwich
+E09000011,manual,7183,Greenwich
+E09000011,elementary,15083,Greenwich
+E09000013,management,18326,Hammersmith and Fulham
+E09000013,professional,29279,Hammersmith and Fulham
+E09000013,technical,18574,Hammersmith and Fulham
+E09000013,admin,6900,Hammersmith and Fulham
+E09000013,skilledTrade,4493,Hammersmith and Fulham
+E09000013,service,6803,Hammersmith and Fulham
+E09000013,sales,5004,Hammersmith and Fulham
+E09000013,manual,2711,Hammersmith and Fulham
+E09000013,elementary,6006,Hammersmith and Fulham
+E09000014,management,17168,Haringey
+E09000014,professional,33738,Haringey
+E09000014,technical,21842,Haringey
+E09000014,admin,9189,Haringey
+E09000014,skilledTrade,11265,Haringey
+E09000014,service,10419,Haringey
+E09000014,sales,8084,Haringey
+E09000014,manual,6027,Haringey
+E09000014,elementary,16651,Haringey
+E09000015,management,17524,Harrow
+E09000015,professional,31409,Harrow
+E09000015,technical,14526,Harrow
+E09000015,admin,12204,Harrow
+E09000015,skilledTrade,12184,Harrow
+E09000015,service,8624,Harrow
+E09000015,sales,9061,Harrow
+E09000015,manual,7806,Harrow
+E09000015,elementary,11702,Harrow
+E09000016,management,15438,Havering
+E09000016,professional,24339,Havering
+E09000016,technical,16717,Havering
+E09000016,admin,16701,Havering
+E09000016,skilledTrade,14375,Havering
+E09000016,service,10294,Havering
+E09000016,sales,8162,Havering
+E09000016,manual,8058,Havering
+E09000016,elementary,10697,Havering
+E09000017,management,18524,Hillingdon
+E09000017,professional,30087,Hillingdon
+E09000017,technical,18036,Hillingdon
+E09000017,admin,14401,Hillingdon
+E09000017,skilledTrade,13152,Hillingdon
+E09000017,service,12044,Hillingdon
+E09000017,sales,10772,Hillingdon
+E09000017,manual,10752,Hillingdon
+E09000017,elementary,15035,Hillingdon
+E09000018,management,17914,Hounslow
+E09000018,professional,27755,Hounslow
+E09000018,technical,17668,Hounslow
+E09000018,admin,12160,Hounslow
+E09000018,skilledTrade,12138,Hounslow
+E09000018,service,11345,Hounslow
+E09000018,sales,11117,Hounslow
+E09000018,manual,10067,Hounslow
+E09000018,elementary,18636,Hounslow
+E09000019,management,17439,Islington
+E09000019,professional,39312,Islington
+E09000019,technical,22879,Islington
+E09000019,admin,7333,Islington
+E09000019,skilledTrade,4945,Islington
+E09000019,service,6756,Islington
+E09000019,sales,5601,Islington
+E09000019,manual,3496,Islington
+E09000019,elementary,7211,Islington
+E09000020,management,18485,Kensington and Chelsea
+E09000020,professional,19186,Kensington and Chelsea
+E09000020,technical,12294,Kensington and Chelsea
+E09000020,admin,4117,Kensington and Chelsea
+E09000020,skilledTrade,2221,Kensington and Chelsea
+E09000020,service,5064,Kensington and Chelsea
+E09000020,sales,3182,Kensington and Chelsea
+E09000020,manual,1678,Kensington and Chelsea
+E09000020,elementary,3214,Kensington and Chelsea
+E09000021,management,14674,Kingston upon Thames
+E09000021,professional,23933,Kingston upon Thames
+E09000021,technical,13140,Kingston upon Thames
+E09000021,admin,7171,Kingston upon Thames
+E09000021,skilledTrade,5769,Kingston upon Thames
+E09000021,service,5947,Kingston upon Thames
+E09000021,sales,5296,Kingston upon Thames
+E09000021,manual,2854,Kingston upon Thames
+E09000021,elementary,5364,Kingston upon Thames
+E09000022,management,25695,Lambeth
+E09000022,professional,55140,Lambeth
+E09000022,technical,34580,Lambeth
+E09000022,admin,12564,Lambeth
+E09000022,skilledTrade,9463,Lambeth
+E09000022,service,13130,Lambeth
+E09000022,sales,8956,Lambeth
+E09000022,manual,6187,Lambeth
+E09000022,elementary,17104,Lambeth
+E09000023,management,20155,Lewisham
+E09000023,professional,41888,Lewisham
+E09000023,technical,27269,Lewisham
+E09000023,admin,11892,Lewisham
+E09000023,skilledTrade,10473,Lewisham
+E09000023,service,13363,Lewisham
+E09000023,sales,9774,Lewisham
+E09000023,manual,6369,Lewisham
+E09000023,elementary,14530,Lewisham
+E09000024,management,17692,Merton
+E09000024,professional,29411,Merton
+E09000024,technical,16337,Merton
+E09000024,admin,9159,Merton
+E09000024,skilledTrade,9115,Merton
+E09000024,service,8623,Merton
+E09000024,sales,7030,Merton
+E09000024,manual,5202,Merton
+E09000024,elementary,9496,Merton
+E09000025,management,15522,Newham
+E09000025,professional,32704,Newham
+E09000025,technical,19608,Newham
+E09000025,admin,12621,Newham
+E09000025,skilledTrade,16496,Newham
+E09000025,service,14189,Newham
+E09000025,sales,14529,Newham
+E09000025,manual,11822,Newham
+E09000025,elementary,25954,Newham
+E09000026,management,18627,Redbridge
+E09000026,professional,34456,Redbridge
+E09000026,technical,17250,Redbridge
+E09000026,admin,14551,Redbridge
+E09000026,skilledTrade,12846,Redbridge
+E09000026,service,9843,Redbridge
+E09000026,sales,10747,Redbridge
+E09000026,manual,9229,Redbridge
+E09000026,elementary,14078,Redbridge
+E09000027,management,23031,Richmond upon Thames
+E09000027,professional,30417,Richmond upon Thames
+E09000027,technical,17549,Richmond upon Thames
+E09000027,admin,6935,Richmond upon Thames
+E09000027,skilledTrade,4478,Richmond upon Thames
+E09000027,service,5468,Richmond upon Thames
+E09000027,sales,3749,Richmond upon Thames
+E09000027,manual,2187,Richmond upon Thames
+E09000027,elementary,3752,Richmond upon Thames
+E09000028,management,23109,Southwark
+E09000028,professional,51143,Southwark
+E09000028,technical,28878,Southwark
+E09000028,admin,11443,Southwark
+E09000028,skilledTrade,8030,Southwark
+E09000028,service,12816,Southwark
+E09000028,sales,8705,Southwark
+E09000028,manual,5990,Southwark
+E09000028,elementary,16833,Southwark
+E09000029,management,14604,Sutton
+E09000029,professional,25047,Sutton
+E09000029,technical,14218,Sutton
+E09000029,admin,11239,Sutton
+E09000029,skilledTrade,10383,Sutton
+E09000029,service,9022,Sutton
+E09000029,sales,6802,Sutton
+E09000029,manual,5380,Sutton
+E09000029,elementary,7527,Sutton
+E09000030,management,20628,Tower Hamlets
+E09000030,professional,49021,Tower Hamlets
+E09000030,technical,27819,Tower Hamlets
+E09000030,admin,11184,Tower Hamlets
+E09000030,skilledTrade,7508,Tower Hamlets
+E09000030,service,9276,Tower Hamlets
+E09000030,sales,10470,Tower Hamlets
+E09000030,manual,6949,Tower Hamlets
+E09000030,elementary,12537,Tower Hamlets
+E09000031,management,17473,Waltham Forest
+E09000031,professional,32185,Waltham Forest
+E09000031,technical,21194,Waltham Forest
+E09000031,admin,11608,Waltham Forest
+E09000031,skilledTrade,14037,Waltham Forest
+E09000031,service,10474,Waltham Forest
+E09000031,sales,9284,Waltham Forest
+E09000031,manual,8341,Waltham Forest
+E09000031,elementary,15776,Waltham Forest
+E09000032,management,35827,Wandsworth
+E09000032,professional,61870,Wandsworth
+E09000032,technical,37329,Wandsworth
+E09000032,admin,13285,Wandsworth
+E09000032,skilledTrade,7838,Wandsworth
+E09000032,service,11073,Wandsworth
+E09000032,sales,8031,Wandsworth
+E09000032,manual,5178,Wandsworth
+E09000032,elementary,10011,Wandsworth
+E09000033,management,22858,Westminster
+E09000033,professional,31136,Westminster
+E09000033,technical,17588,Westminster
+E09000033,admin,6750,Westminster
+E09000033,skilledTrade,3481,Westminster
+E09000033,service,6187,Westminster
+E09000033,sales,5211,Westminster
+E09000033,manual,2781,Westminster
+E09000033,elementary,5750,Westminster
